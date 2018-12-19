@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data sciences at TSP on Sylvain Le Corff</title>
+    <title>Sylvain Le Corff</title>
     <link>/datasciencesattsp/</link>
-    <description>Recent content in Data sciences at TSP on Sylvain Le Corff</description>
+    <description>Recent content on Sylvain Le Corff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/datasciencesattsp/12_18_carto/</guid>
-      <description>Overview of data sciences at Telecom SudParis for the IMT Thematique phare: &#34;Intelligence artificielle et sciences des donnees&#34;. This file gathers projects led in SAMOVAR which set the focus on problems related to data sciences with the associated researchers. DataIA_TSP_AAAI </description>
+      <description>Overview of data sciences at Telecom SudParis for the IMT Thematique phare &#34;Intelligence artificielle et sciences des donnees&#34;. This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences. DataIA_TSP_AAAI </description>
     </item>
     
     <item>
