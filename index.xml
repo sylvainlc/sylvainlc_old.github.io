@@ -11,20 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Cartographie des sciences des donnees a Telecom SudParis</title>
-      <link>/datasciencesattsp/12_18_carto/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datasciencesattsp/12_18_carto/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-Cartographie des competences pour la thematique phare de l&#39;IMT : &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
-Vous trouverez ici une liste des differents projets portes au laboratoire sur des sujets lies a cette thematique ainsi que des enseignants-chercheurs et des docorants associes.
-&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>H2020 calls: Big Data &amp; IA</title>
       <link>/datasciencesattsp/12_18_h2020/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
@@ -46,6 +32,20 @@ If you are interested in some of these projects/calls or if you are already invo
 &lt;a href=&#34;/files/H2020/Oodrive.pdf&#34;&gt;Oodrive by Amdjed Mokhtari&lt;/a&gt;&lt;/br&gt;
 &lt;a href=&#34;/files/H2020/Sidetade.pdf&#34;&gt;Sidetrade by Francois Bancilhon&lt;/a&gt;&lt;/br&gt;
 &lt;a href=&#34;/files/H2020/Teralab.pdf&#34;&gt;Teralab by Anne-Sophie Taillandier&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of data sciences at Telecom SudParis</title>
+      <link>/datasciencesattsp/12_18_carto/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/12_18_carto/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt;: &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
+This file gathers projects led in SAMOVAR which set the focus on problems related to data sciences with the associated researchers.
+&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
 &lt;/p&gt;
 </description>
     </item>
