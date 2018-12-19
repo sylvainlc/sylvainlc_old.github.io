@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edge of chaos</title>
+      <link>/tags/edge-of-chaos/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/edge-of-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limiting behavior</title>
+      <link>/tags/limiting-behavior/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/limiting-behavior/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

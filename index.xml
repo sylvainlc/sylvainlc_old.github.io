@@ -11,6 +11,72 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cartographie des sciences des donnees a Telecom SudParis</title>
+      <link>/post/12_18_carto/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/12_18_carto/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+Cartographie des competences pour la thematique phare de l&#39;IMT : &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
+Vous trouverez ici une liste des differents projets portes au laboratoire sur des sujets lies a cette thematique ainsi que des enseignants-chercheurs et des docorants associes.
+&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>H2020 calls: Big Data &amp; IA</title>
+      <link>/post/12_18_h2020/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/12_18_h2020/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+General presentation of the calls H2020 in early 2019 related to Big Data, Data sciences and Artificial intelligence.&lt;/br&gt;
+&lt;/br&gt;
+A general presentation by &lt;b&gt;Pierre Simay&lt;/b&gt;, &lt;b&gt;Isabelle de Sutter&lt;/b&gt; and &lt;b&gt;Julia Morawski&lt;/b&gt;: &lt;a href=&#34;/files/H2020/IA_Calls_H2020_Final.pdf&#34;&gt;H2020 calls&lt;/a&gt;.
+&lt;/br&gt;
+&lt;/br&gt;
+Other presentations by companies &amp; teams involved in data sciences projects relevant for these calls.
+If you are interested in some of these projects/calls or if you are already involved in a process for H2020 calls please contact me at &lt;b&gt;sylvain.le_corff@telecom-sudparis.eu&lt;/b&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Calmedica.pdf&#34;&gt;Calmedica by Alexis Hernot&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Linkfluence.pdf&#34;&gt;Linkfluence by Benoit Tabutiaux&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Montimage.pdf&#34;&gt;Montimage by Edgardo Montesdeoca&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Oodrive.pdf&#34;&gt;Oodrive by Amdjed Mokhtari&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Sidetade.pdf&#34;&gt;Sidetrade by Francois Bancilhon&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Teralab.pdf&#34;&gt;Teralab by Anne-Sophie Taillandier&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some statistical insights for neural networks</title>
+      <link>/post/09_18_statinsightdl/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/09_18_statinsightdl/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+This session is dedicated to highlight some new statistical insights on the way to tune deep neural
+ networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 
+by Samuel Schoenholz,  Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), 
+Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford)  analyze in 
+&lt;a href=&#34;https://arxiv.org/abs/1805.08266&#34;&gt;On the Selection of Initialization and Activation Function for Deep Neural Networks&lt;/a&gt; 
+the &lt;b&gt;edge of chaos&lt;/b&gt; as a criterion to choose the activation function of the neural network.&lt;br&gt;
+
+Consider a fully connected random neural network with depth $L\in\mathbb{N}^{\star}$ and widths $(N_{\ell})_{1\leqslant \ell\leqslant L}$. For some input $x\in\mathbb{R}^d$ and some activation function,
+$\phi:\mathbb{R}\to \mathbb{R}$, for all $\ell\geqslant 2$,
+\begin{align*}
+y_{i}^1(x) &amp;= \sum_{j=1}^d W_{i,j}^1\,x_j + B_i^1\,,\\
+y_{i}^{\ell}(x) &amp;= \sum_{j=1}^{N_{\ell-1}} W_{i,j}^{\ell}\,\phi\left(y_{j}^{\ell-1}(x)\right) + B_i^{\ell}\,,
+\end{align*}
+where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2/N_{\ell-1})$ 
+and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
       <link>/publication/lecorff_lerasle_vernet_2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -117,82 +183,6 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithms</title>
-      <link>/project/algorithms/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/algorithms/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Machine learning algorithms for the &lt;I&gt;Ms Sc. Machine learning&lt;/I&gt;&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Singular value decomposition for image reconstruction &lt;a href=&#34;/files/svd.zip&#34;&gt;svd (Python ipynb)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Linear and quadratic discriminant analysis &lt;a href=&#34;/files/LDA.rmd&#34;&gt;lda (R Markdown)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Support Vector Machines - application to well being at work data &lt;a href=&#34;/files/svm.zip&#34;&gt;svm (Python ipynb)&lt;/a&gt;.&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Shrinkage-thresholding MALA for Bayesian variable selection&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Bayesian variable selection algorithm based on the paper Schreck et al. (&lt;a href=&#34;http://arxiv.org/abs/1312.5658&#34;&gt;arXiv:1312.5658&lt;/a&gt;).
-The method is based on the combination of a Metropolis Adjusted Langevin Algorithm (MALA) step with a shrinkage-thresholding operator.
-The algorithm is compared to the &lt;b&gt;Reversible jump MCMC algorithm&lt;/b&gt;, see Green (&lt;a href=&#34;http://biomet.oxfordjournals.org/content/82/4/711.abstract&#34;&gt;95-BIOMET:711&lt;/a&gt;):
-&lt;a href=&#34;/files/ees_C.tar.gz&#34;&gt;ees_C.tar.gz &amp;copy;&lt;/a&gt;,
-&lt;a href=&#34;/files/stmala_C.tar.gz&#34;&gt;stmala_C.tar.gz (Matlab)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Online parameter estimation for a Stochastic Volatility model&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;The parameters are estimated with the Block Online EM algorithm, see Le Corff and Fort (2013) (&lt;a href=&#34;http://projecteuclid.org/DPubS?service=UI&amp;version=1.0&amp;verb=Display&amp;handle=euclid.ejs/1364220670&#34;&gt;13-EJS:789&lt;/a&gt; and &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2414418&#34;&gt;ACM-Tomacs&lt;/a&gt;): &lt;a href=&#34;/files/onlineem_svm.zip&#34;&gt;OnlineEM_SVM.zip (Matlab)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Particle filters and smoothers&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Computation of the expectation with respect to the joint smoothing distribution of an additive functional with different methods. The &lt;b&gt;Bootstrap filter&lt;/b&gt; is compared to a fast version of the &lt;b&gt;FFBSi algorithm&lt;/b&gt;, see Douc et al. (&lt;a href=&#34;http://projecteuclid.org/DPubS?service=UI&amp;version=1.0&amp;verb=Display&amp;handle=euclid.aoap/1322057317&#34;&gt;10-AAP:735&lt;/a&gt;), and a forward only version of the &lt;b&gt;FFBS algorithm&lt;/b&gt;, see Doucet et al. (&lt;a href=&#34;http://arxiv.org/abs/1012.5390&#34;&gt;arXiv:1012.5390&lt;/a&gt;): &lt;a href=&#34;/files/lgm_smoothing.zip&#34;&gt;LGM_smoothing.zip (Matlab, Linear Gaussian Model)&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Students</title>
-      <link>/project/students/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/students/</guid>
-      <description>&lt;p&gt;&lt;b&gt;Ph.D. sutdents &lt;/b&gt;&lt;br&gt;
-&lt;small&gt;Thi Ngoc Minh Nguyen (Telecom ParisTech &amp;amp; Lunalogic, 2015 - 2016)&lt;br&gt;
-Co-supervised with Eric Moulines (Ecole Polytechnique)&lt;br&gt;
-&lt;I&gt;Smoothing of linear Gaussian models with Markov regime. Applications to commodity market models&lt;/I&gt;&lt;br&gt;
-06-18 - &amp;hellip; Quantitative Porfolio Manager at Q-Hedge Technologies&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Postdocoral fellows&lt;/b&gt;&lt;br&gt;
-&lt;small&gt;Pierre Gloaguen (Agro ParisTech, 2016 - 2017)&lt;br&gt;
-Co-supervised with Marie-Pierre Etienne (Agro ParisTech)&lt;br&gt;
-&lt;I&gt;Online Sequential Monte Carlo smoother for partially observed diffusion processes&lt;/I&gt;&lt;br&gt;
-09-18 - &amp;hellip;  Associate Professor at Agro ParisTech &lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;M.Sc. students&lt;/b&gt;&lt;br&gt;
-&lt;small&gt;Paul Maire (Universite Paris-Sud, 2018)&lt;br&gt;
-Two months intership&lt;br&gt;
-&lt;I&gt;Bradley-Terry models with covariates to predict NBA outcomes&lt;/I&gt;&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; Intermittent supervision &lt;/b&gt;&lt;br&gt;
-&lt;small&gt;Augustin Touron (Universite Paris-Sud and EDF R&amp;amp;D, 2017 - 2018)&lt;br&gt;
-&lt;I&gt;Stochastic modelling of weather variables using latent data models&lt;/I&gt;
-Occasional supervision&lt;br&gt;
-Supervised by Elisabeth Gassiat (Universite Paris-Sud) and Thi-Thu-Huong Hoang (EDF)&lt;/small&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A shrinkage-thresholding Metropolis adjusted Langevin algorithm for Bayesian variable selection</title>
-      <link>/publication/schreck_fort_lecorff_moulines_2015/</link>
-      <pubDate>Fri, 30 Oct 2015 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/schreck_fort_lecorff_moulines_2015/</guid>
       <description></description>
     </item>
     

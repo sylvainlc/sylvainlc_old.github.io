@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge of chaos on Sylvain Le Corff</title>
+    <link>/tags/edge-of-chaos/</link>
+    <description>Recent content in Edge of chaos on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/edge-of-chaos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some statistical insights for neural networks</title>
+      <link>/post/09_18_statinsightdl/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/09_18_statinsightdl/</guid>
+      <description>This session is dedicated to highlight some new statistical insights on the way to tune deep neural networks to reach good performance. Following Deep information propagation by Samuel Schoenholz, Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford) analyze in On the Selection of Initialization and Activation Function for Deep Neural Networks the edge of chaos as a criterion to choose the activation function of the neural network.</description>
+    </item>
+    
+  </channel>
+</rss>
