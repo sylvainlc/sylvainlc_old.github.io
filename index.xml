@@ -12,10 +12,10 @@
     
     <item>
       <title>Cartographie des sciences des donnees a Telecom SudParis</title>
-      <link>/post/12_18_carto/</link>
+      <link>/datasciencesattsp/12_18_carto/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/12_18_carto/</guid>
+      <guid>/datasciencesattsp/12_18_carto/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt; 
 Cartographie des competences pour la thematique phare de l&#39;IMT : &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
 Vous trouverez ici une liste des differents projets portes au laboratoire sur des sujets lies a cette thematique ainsi que des enseignants-chercheurs et des docorants associes.
@@ -26,10 +26,10 @@ Vous trouverez ici une liste des differents projets portes au laboratoire sur de
     
     <item>
       <title>H2020 calls: Big Data &amp; IA</title>
-      <link>/post/12_18_h2020/</link>
+      <link>/datasciencesattsp/12_18_h2020/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/12_18_h2020/</guid>
+      <guid>/datasciencesattsp/12_18_h2020/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt; 
 General presentation of the calls H2020 in early 2019 related to Big Data, Data sciences and Artificial intelligence.&lt;/br&gt;
 &lt;/br&gt;
@@ -52,10 +52,10 @@ If you are interested in some of these projects/calls or if you are already invo
     
     <item>
       <title>Some statistical insights for neural networks</title>
-      <link>/post/09_18_statinsightdl/</link>
+      <link>/datasciencesattsp/09_18_statinsightdl/</link>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/09_18_statinsightdl/</guid>
+      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
       <description>&lt;p align=&#34;justify&#34;&gt; 
 This session is dedicated to highlight some new statistical insights on the way to tune deep neural
  networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 

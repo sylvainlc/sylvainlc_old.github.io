@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thematique phare IMT on Sylvain Le Corff</title>
-    <link>/categories/thematique-phare-imt/</link>
-    <description>Recent content in Thematique phare IMT on Sylvain Le Corff</description>
+    <title>Data sciences at TSP on Sylvain Le Corff</title>
+    <link>/datasciencesattsp/</link>
+    <description>Recent content in Data sciences at TSP on Sylvain Le Corff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/categories/thematique-phare-imt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/datasciencesattsp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,6 +28,15 @@
       
       <guid>/datasciencesattsp/12_18_h2020/</guid>
       <description>General presentation of the calls H2020 in early 2019 related to Big Data, Data sciences and Artificial intelligence.  A general presentation by Pierre Simay, Isabelle de Sutter and Julia Morawski: H2020 calls.   Other presentations by companies &amp; teams involved in data sciences projects relevant for these calls. If you are interested in some of these projects/calls or if you are already involved in a process for H2020 calls please contact me at sylvain.</description>
+    </item>
+    
+    <item>
+      <title>Some statistical insights for neural networks</title>
+      <link>/datasciencesattsp/09_18_statinsightdl/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
+      <description>This session is dedicated to highlight some new statistical insights on the way to tune deep neural networks to reach good performance. Following Deep information propagation by Samuel Schoenholz, Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford) analyze in On the Selection of Initialization and Activation Function for Deep Neural Networks the edge of chaos as a criterion to choose the activation function of the neural network.</description>
     </item>
     
   </channel>

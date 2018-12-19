@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sylvain Le Corff</title>
+    <title>Data sciences at TSP on Sylvain Le Corff</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Sylvain Le Corff</description>
+    <description>Recent content in Data sciences at TSP on Sylvain Le Corff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,6 +24,15 @@ Linear and quadratic discriminant analysis lda (R Markdown).
 Support Vector Machines - application to well being at work data svm (Python ipynb).
 Shrinkage-thresholding MALA for Bayesian variable selection
 Bayesian variable selection algorithm based on the paper Schreck et al. (arXiv:1312.5658). The method is based on the combination of a Metropolis Adjusted Langevin Algorithm (MALA) step with a shrinkage-thresholding operator.</description>
+    </item>
+    
+    <item>
+      <title>Data sciences @ TSP</title>
+      <link>/project/datasciences/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/datasciences/</guid>
+      <description></description>
     </item>
     
     <item>
