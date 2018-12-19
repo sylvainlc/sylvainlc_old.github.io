@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sylvain Le Corff</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>/project/algorithms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/algorithms/</guid>
+      <description>Machine learning algorithms for the Ms Sc. Machine learning
+Singular value decomposition for image reconstruction svd (Python ipynb).
+Linear and quadratic discriminant analysis lda (R Markdown).
+Support Vector Machines - application to well being at work data svm (Python ipynb).
+Shrinkage-thresholding MALA for Bayesian variable selection
+Bayesian variable selection algorithm based on the paper Schreck et al. (arXiv:1312.5658). The method is based on the combination of a Metropolis Adjusted Langevin Algorithm (MALA) step with a shrinkage-thresholding operator.</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>/project/students/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/students/</guid>
+      <description>Ph.D. sutdents 
+Thi Ngoc Minh Nguyen (Telecom ParisTech &amp;amp; Lunalogic, 2015 - 2016)
+Co-supervised with Eric Moulines (Ecole Polytechnique)
+Smoothing of linear Gaussian models with Markov regime. Applications to commodity market models
+06-18 - &amp;hellip; Quantitative Porfolio Manager at Q-Hedge Technologies
+Postdocoral fellows
+Pierre Gloaguen (Agro ParisTech, 2016 - 2017)
+Co-supervised with Marie-Pierre Etienne (Agro ParisTech)
+Online Sequential Monte Carlo smoother for partially observed diffusion processes
+09-18 - &amp;hellip; Associate Professor at Agro ParisTech</description>
+    </item>
+    
+  </channel>
+</rss>
