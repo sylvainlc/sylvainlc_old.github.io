@@ -74,32 +74,6 @@ This file gathers projects led in SAMOVAR and the associated researchers which s
     </item>
     
     <item>
-      <title>Some statistical insights for neural networks</title>
-      <link>/datasciencesattsp/09_18_statinsightdl/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-This session is dedicated to highlight some new statistical insights on the way to tune deep neural
- networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 
-by Samuel Schoenholz,  Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), 
-Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford)  analyze in 
-&lt;a href=&#34;https://arxiv.org/abs/1805.08266&#34;&gt;On the Selection of Initialization and Activation Function for Deep Neural Networks&lt;/a&gt; 
-the &lt;b&gt;edge of chaos&lt;/b&gt; as a criterion to choose the activation function of the neural network.&lt;br&gt;
-
-Consider a fully connected random neural network with depth $L\in\mathbb{N}^{\star}$ and widths $(N_{\ell})_{1\leqslant \ell\leqslant L}$. For some input $x\in\mathbb{R}^d$ and some activation function,
-$\phi:\mathbb{R}\to \mathbb{R}$, for all $\ell\geqslant 2$,
-\begin{align*}
-y_{i}^1(x) &amp;= \sum_{j=1}^d W_{i,j}^1\,x_j + B_i^1\,,\\
-y_{i}^{\ell}(x) &amp;= \sum_{j=1}^{N_{\ell-1}} W_{i,j}^{\ell}\,\phi\left(y_{j}^{\ell-1}(x)\right) + B_i^{\ell}\,,
-\end{align*}
-where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2/N_{\ell-1})$ 
-and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
       <link>/publication/lecorff_lerasle_vernet_2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -196,6 +170,15 @@ and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/dumont_lecorff_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference for oscillation processes</title>
+      <link>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</guid>
       <description></description>
     </item>
     
