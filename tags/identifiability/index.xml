@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identifiability on Sylvain Le Corff</title>
+    <link>/tags/identifiability/</link>
+    <description>Recent content in Identifiability on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/identifiability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
+      <link>/publication/gassiat_lehericy_lecorff_2019/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent estimation of the filtering and marginal smoothing distributions in nonparametric hidden Markov models</title>
+      <link>/publication/decastro_gassiat_lecorff_2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/decastro_gassiat_lecorff_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonparametric regression on hidden phi-mixing variables: identifiability and consistency of a pseudo-likelihood based estimation procedure</title>
+      <link>/publication/dumont_lecorff_2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dumont_lecorff_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference for oscillation processes</title>
+      <link>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

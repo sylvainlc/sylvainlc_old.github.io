@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Expectation Maximization on Sylvain Le Corff</title>
+    <link>/tags/online-expectation-maximization/</link>
+    <description>Recent content in Online Expectation Maximization on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/online-expectation-maximization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simultaneous localization and mapping problem in wireless sensor networks</title>
+      <link>/publication/dumont_lecorff_2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dumont_lecorff_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence of a Particle-based Approximation of the Block Online Expectation Maximization Algorithm</title>
+      <link>/publication/lecorff_fort_2013b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_fort_2013b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Online EM algorithms for general hidden Markov models. Application to the SLAM problem</title>
+      <link>/publication/lecorff_fort_moulines_2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_fort_moulines_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online EM for indoor simultaneous localization and mapping</title>
+      <link>/publication/dumont_lecorff_2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dumont_lecorff_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Online Expectation Maximization based algorithms for inference in hidden Markov models</title>
+      <link>/publication/lecorff_fort_2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_fort_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Expectation Maximization based algorithms for inference in hidden Markov models</title>
+      <link>/publication/lecorff_fort_moulines_2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_fort_moulines_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

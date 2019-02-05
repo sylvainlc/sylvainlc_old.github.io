@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translation models on Sylvain Le Corff</title>
+    <link>/tags/translation-models/</link>
+    <description>Recent content in Translation models on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/translation-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
+      <link>/publication/gassiat_lehericy_lecorff_2019/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
