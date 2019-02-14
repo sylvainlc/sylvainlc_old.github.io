@@ -84,6 +84,48 @@ This file gathers projects led in SAMOVAR and the associated researchers which s
     </item>
     
     <item>
+      <title>Overview of data sciences at Telecom SudParis</title>
+      <link>/datascienceswg/12_18_carto/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datascienceswg/12_18_carto/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt; &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
+This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences.
+
+&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some statistical insights for neural networks</title>
+      <link>/datasciencesattsp/09_18_statinsightdl/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+This session is dedicated to highlight some new statistical insights on the way to tune deep neural
+ networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 
+by Samuel Schoenholz,  Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), 
+Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford)  analyze in 
+&lt;a href=&#34;https://arxiv.org/abs/1805.08266&#34;&gt;On the Selection of Initialization and Activation Function for Deep Neural Networks&lt;/a&gt; 
+the &lt;b&gt;edge of chaos&lt;/b&gt; as a criterion to choose the activation function of the neural network.&lt;br&gt;
+
+Consider a fully connected random neural network with depth $L\in\mathbb{N}^{\star}$ and widths $(N_{\ell})_{1\leqslant \ell\leqslant L}$. For some input $x\in\mathbb{R}^d$ and some activation function,
+$\phi:\mathbb{R}\to \mathbb{R}$, for all $\ell\geqslant 2$,
+\begin{align*}
+y_{i}^1(x) &amp;= \sum_{j=1}^d W_{i,j}^1\,x_j + B_i^1\,,\\
+y_{i}^{\ell}(x) &amp;= \sum_{j=1}^{N_{\ell-1}} W_{i,j}^{\ell}\,\phi\left(y_{j}^{\ell-1}(x)\right) + B_i^{\ell}\,,
+\end{align*}
+where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2/N_{\ell-1})$ 
+and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
       <link>/publication/lecorff_lerasle_vernet_2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -162,24 +204,6 @@ This file gathers projects led in SAMOVAR and the associated researchers which s
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/nguyen_lecorff_moulines_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistent estimation of the filtering and marginal smoothing distributions in nonparametric hidden Markov models</title>
-      <link>/publication/decastro_gassiat_lecorff_2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/decastro_gassiat_lecorff_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonparametric regression on hidden phi-mixing variables: identifiability and consistency of a pseudo-likelihood based estimation procedure</title>
-      <link>/publication/dumont_lecorff_2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/dumont_lecorff_2017/</guid>
       <description></description>
     </item>
     

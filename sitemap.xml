@@ -41,6 +41,24 @@
     
     <url>
     
+      <loc>/datascienceswg/12_18_carto/</loc>
+      <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/datasciencesattsp/09_18_statinsightdl/</loc>
+      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/lecorff_lerasle_vernet_2018/</loc>
       <lastmod>2018-08-01T00:00:00+02:00</lastmod>
     </url>
@@ -158,6 +176,15 @@
     
     <url>
     
+      <loc>/datascienceswg/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -195,6 +222,15 @@
     <url>
     
       <loc>/project/datasciences/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/datascienceswg/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -443,6 +479,16 @@
     
     <url>
     
+      <loc>/tags/edge-of-chaos/</loc>
+      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/general-state-space/</loc>
       <lastmod>2019-02-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -465,6 +511,16 @@
     
       <loc>/tags/latent-data/</loc>
       <lastmod>2019-02-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/limiting-behavior/</loc>
+      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -513,6 +569,16 @@
     
     <url>
     
+      <loc>/tags/maths/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/maximum-likelihood/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -525,6 +591,16 @@
     
       <loc>/tags/multi-objective-optimization/</loc>
       <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/neural-networks/</loc>
+      <lastmod>2018-09-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -765,6 +841,16 @@
     
       <loc>/tags/wireless-sensor-networks/</loc>
       <lastmod>2014-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/working-group/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
