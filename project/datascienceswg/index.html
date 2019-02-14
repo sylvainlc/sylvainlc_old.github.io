@@ -402,11 +402,7 @@ Note again that maximizing this loglikelihood is equivalent to minimizing the em
 
 <p><strong>The multilayer perceptron - Feed Forward Neural Networks</strong></p>
 
-<p>The first  mathematical model for a neuron was the Threshold Logic Unit <a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">(McCulloch and Pitts, 1943)</a>, with Boolean inputs and outputs. The response associated with an input $x\in{0,1}^d$ is defined as $f: x\mapsto 1<em>{\omega\sum</em>{j=1}^dx_j + b \geqslant 0}$. This construction allows to build any boolean function from elementary units
-$$
-x\vee y = 1_{x+y-<sup>1</sup>&frasl;<sub>2</sub> \geqslant 0}\,,\quad x\wedge y = 1_{x+y-<sup>3</sup>&frasl;<sub>2</sub> \geqslant 0}\quad\mathrm{and}\quad  1-x = 1_{-x+<sup>1</sup>&frasl;<sub>2</sub> \geqslant 0}
-$$
-This elementary model can be extended to the <strong>Perceptron</strong> with real valued inputs <a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">(Rosenblatt, 1957)</a> by writing  $f: x\mapsto 1_{\sum_{j=1}^d\omega_jx_j + b \geqslant 0}$. In this case, the nonlinear activation function is $\sigma: x \mapsto 1_{x\geqslant 0}$ and the ouput defined as:
+<p>The first  mathematical model for a neuron was the Threshold Logic Unit <a href="http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf">(McCulloch and Pitts, 1943)</a>, with Boolean inputs and outputs. The response associated with an input $x\in\{0,1\}^d$ is defined as $f: x\mapsto 1_{\omega\sum_{j=1}^dx_j + b \geqslant 0}$. This construction allows to build any boolean function from elementary units. This elementary model can be extended to the <strong>Perceptron</strong> with real valued inputs <a href="https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf">(Rosenblatt, 1957)</a> by writing  $f: x\mapsto 1_{\sum_{j=1}^d\omega_jx_j + b \geqslant 0}$. In this case, the nonlinear activation function is $\sigma: x \mapsto 1_{x\geqslant 0}$ and the ouput defined as:
 $$
 f:x \mapsto \sigma(\omega&rsquo;x + b)\,.
 $$
