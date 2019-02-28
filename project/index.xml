@@ -13,21 +13,20 @@
     
     
     <item>
-      <title>Algorithms</title>
+      <title>Algorithms &amp; Simulations</title>
       <link>/project/algorithms/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/algorithms/</guid>
-      <description>Machine learning algorithms for the Ms Sc. Machine learning
-Singular value decomposition for image reconstruction svd (Python ipynb).
-Linear and quadratic discriminant analysis lda (R Markdown).
-Support Vector Machines - application to well being at work data svm (Python ipynb).
-Shrinkage-thresholding MALA for Bayesian variable selection
-Bayesian variable selection algorithm based on the paper Schreck et al. (arXiv:1312.5658). The method is based on the combination of a Metropolis Adjusted Langevin Algorithm (MALA) step with a shrinkage-thresholding operator.</description>
+      <description>Shrinkage-thresholding MALA for Bayesian variable selection
+Bayesian variable selection algorithm based on the paper Schreck et al. (arXiv:1312.5658). The method is based on the combination of a Metropolis Adjusted Langevin Algorithm (MALA) step with a shrinkage-thresholding operator. The algorithm is compared to the Reversible jump MCMC algorithm, see Green (95-BIOMET:711): ees_C.tar.gz &amp;copy;, stmala_C.tar.gz (Matlab)
+
+Online parameter estimation for a Stochastic Volatility model
+The parameters are estimated with the Block Online EM algorithm, see Le Corff and Fort (2013) (13-EJS:789 and ACM-Tomacs): OnlineEM_SVM.</description>
     </item>
     
     <item>
-      <title>Data sciences @ TSP</title>
+      <title>Data sciences @TSP</title>
       <link>/project/datasciences/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -62,6 +61,22 @@ Pierre Gloaguen (Agro ParisTech, 2016 - 2017)
 Co-supervised with Marie-Pierre Etienne (Agro ParisTech)
 Online Sequential Monte Carlo smoother for partially observed diffusion processes
 09-18 - &amp;hellip; Associate Professor at Agro ParisTech</description>
+    </item>
+    
+    <item>
+      <title>Teaching materials (Machine Learning, Statistics)</title>
+      <link>/project/teaching/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/teaching/</guid>
+      <description>Machine learning algorithms for the Ms. Sc. Advanced Machine learning (3rd year) @Ecole Polytechnique
+AdaBoost and Random forests pdf.
+Kernel Principal Component Analysis pdf.
+Kmeans and Expectation Maximization algorithms pdf.
+Machine learning algorithms for the Ms. Sc. Machine learning (2nd year) @TSP
+Singular value decomposition for image reconstruction svd (Python ipynb).
+Linear and quadratic discriminant analysis lda (R Markdown).
+Support Vector Machines - application to well being at work data svm (Python ipynb).</description>
     </item>
     
   </channel>
