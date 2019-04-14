@@ -474,14 +474,36 @@ For instance, if $f: x \mapsto \langle a;x\rangle$, then  $\nabla f(x) = a$ and 
 <p>The gradient is orthogonal to level sets where, for a function $f: \mathbb{R}^d \to \mathbb{R}$ and a value $c_\star\in\mathbb{R}$, the level set associated with $c_\star$ is given by $\mathcal{C}_{c_\star} = { \x \in \mathbb{R}^d, f(x) = c_\star}$.
 The gradient is then a good direction to follow which justifies the first gradient based algorithm to minimize $f$.</p>
 
-<p><strong>Gradient descent</strong>
+<p><strong>Convergence of gradient descent algorithm</strong>
 Input: Function $f$ to minimize, initial vector $w^{(0)}$, $k=0$.</p>
 
 <p>Parameters: step size $\eta&gt;0$.</p>
 
-<p>While \textit{not converge} do
-$w^{(k+1)} \gets w^{(k)} - \eta \nabla f(w^{(k)})$
-$k \gets k+1$.</p>
+<p>While the allgorithm has not converged do $w^{(k+1)} \gets w^{(k)} - \eta \nabla f(w^{(k)})$ and $k \gets k+1$.</p>
+
+<p>Let $f : \mathbb{R}^d \to \mathbb{R}$ be a $L$-smooth convex function. Let $w^{\star}$ be a minimum of $f$ on $\mathbb{R}^d$.
+Then, Gradient Descent with step size $\eta \leqslant 1/L$ satisfies
+$$
+f(w^{(k)}) - f(w^{\star}) \leqslant \frac{|w^{(0)} - w^{\star}|_2^2}{2 \eta k}\,.
+$$
+In particular, for $\eta=1/L$,
+$$
+L|w^{(0)} - w^{\star}|_2^<sup>2</sup>&frasl;<sub>2</sub>\varepsilon
+$$
+iterations are sufficient to get an $\varepsilon$-approximation of the minimal value of $f$.</p>
+
+<p>The proof of this result relies on the descent lemma: if $f$ is $L$-smooth, then for any $w, w&rsquo; \in \mathbb{R}^d$<br />
+$$
+f(w&rsquo;) \leqslant f(w) + \inr{\nabla f(w), w&rsquo; - w} + \frac {L}{2} \norm{w - w&rsquo;}_2^2\,.
+$$
+Assuming this holds, remark that
+$$
+\mathrm{argmin}_{w \in \mathbb{R}^d}{ f(w^k) + \inr{\nabla f(w^k), w - w^k} + \frac{L}{2} \norm{w -w^k}_2^2} = \mathrm{argmin}_{w \in \mathbb{R}^d} | w - (w^k - \frac 1 {L} \nabla f(w^k))|_2^2
+$$
+Hence, it is natural to choose
+$$
+w^{k+1} = w^k - \frac 1 {L} \nabla f(w^k)\,.
+$$</p>
 
     </div>
 
