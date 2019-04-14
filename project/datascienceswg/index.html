@@ -464,6 +464,13 @@ $$
 $$
 where $\ell$ is a given loss function and $g$ is a penalization function such as $g: w \mapsto |w|_2^2$ or $g: w \mapsto |w|_1^2$.</p>
 
+<p>Let $f: \mathbb{R}^d \to \mathbb{R}$ be a differentiable function. If $x^{\star}$ is a local extremum then $\nabla f(x^{\star}) = 0$, where
+$\nabla f(x^{\star})$ is the gradient of the function $f$ at point $x^{\star}$:
+$$
+\nabla f(x) = \begin{pmatrix} \frac{\partial f}{\partial x_1} \ \vdots \ \frac{\partial f}{\partial x_d}\end{pmatrix}\,.
+$$
+For instance, if $f: x \mapsto \langle a,x\rangle$, then  $\nabla f(x) = a$ and  if $f: x \mapsto x^T A x$ then $\nabla f(x) = (A + A^T) x$.</p>
+
     </div>
 
     
