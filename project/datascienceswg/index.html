@@ -474,7 +474,7 @@ For instance, if $f: x \mapsto \langle a;x\rangle$, then  $\nabla f(x) = a$ and 
 <p>The gradient is orthogonal to level sets where, for a function $f: \mathbb{R}^d \to \mathbb{R}$ and a value $c_\star\in\mathbb{R}$, the level set associated with $c_\star$ is given by $\mathcal{C}_{c_\star} = { \x \in \mathbb{R}^d, f(x) = c_\star}$.
 The gradient is then a good direction to follow which justifies the first gradient based algorithm to minimize $f$.</p>
 
-<p>\begin{block}{Gradient descent}
+<p>** Gradient descent **
 Input: Function $f$ to minimize, initial vector $w^{(0)}$, $k=0$.
 \medskip
 Parameters: step size $\eta&gt;0$.
@@ -483,8 +483,7 @@ While \textit{not converge} do
 \begin{itemize}
 \item $w^{(k+1)} \gets w^{(k)} - \eta \nabla f(w^{(k)})$
 \item $k \gets k+1$.
-\end{itemize}
-\end{block}</p>
+\end{itemize}</p>
 
     </div>
 
