@@ -19,8 +19,7 @@
       
       <guid>/project/datascienceswg/</guid>
       <description>Session 1: From machine learning basics to Feed Forward Neural Networks
-Typical machine learning problems can be decomposed into two different classes.
-(Classification). The problem is to learn whether an individual from a given state space $\mathbb{R}^p$ belongs to some class. The focus is usually set on learning with a known number $M$ of classes so that an individual is associated with a label in ${1,\ldots,M}$. The statistical model is then given by $(X,Y)\in\mathbb{R}^p\times {1,\ldots,M}$ and the objective is to define a function $f: \mathbb{R}^p \to {1,\ldots,M}$, called classifier, such that $f(X)$ is the best prediction of $Y$ in a given context.</description>
+Session 2: Optimization for machine/deep learning</description>
     </item>
     
   </channel>
