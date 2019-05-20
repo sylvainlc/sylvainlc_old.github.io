@@ -68,13 +68,14 @@ Online Sequential Monte Carlo smoother for partially observed diffusion processe
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/teaching/</guid>
-      <description>Introduction to computational statistics, machine learning and deep learning @Everywhere
+      <description>Introduction to computational statistics, machine learning and deep learning
 Dimension reduction (SVD, PCA, use before machine learning algorithms) PCA (Python ipynb).
 Introduction to machine learning (random forest, gradient descent, feed forward neural networks) Intro to machine learning (Python ipynb).
 Machine learning algorithms for the Ms. Sc. Advanced Machine learning (3rd year) @Ecole Polytechnique
 AdaBoost and Random forests pdf.
 Kernel Principal Component Analysis pdf.
-Kmeans and Expectation Maximization algorithms pdf.</description>
+Kmeans and Expectation Maximization algorithms pdf.
+Machine learning algorithms for the Ms.</description>
     </item>
     
   </channel>
