@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Asymptotic normality</title>
+      <link>/tags/asymptotic-normality/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/asymptotic-normality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian nonparametric</title>
       <link>/tags/bayesian-nonparametric/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
@@ -69,7 +78,7 @@
     <item>
       <title>Consistency</title>
       <link>/tags/consistency/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/consistency/</guid>
       <description></description>
@@ -123,7 +132,7 @@
     <item>
       <title>General state space</title>
       <link>/tags/general-state-space/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/general-state-space/</guid>
       <description></description>
@@ -141,7 +150,7 @@
     <item>
       <title>Latent data</title>
       <link>/tags/latent-data/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/latent-data/</guid>
       <description></description>
@@ -292,6 +301,24 @@
     </item>
     
     <item>
+      <title>Particle filters</title>
+      <link>/tags/particle-filters/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/particle-filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle smoothers</title>
+      <link>/tags/particle-smoothers/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/particle-smoothers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Random Walk</title>
       <link>/tags/random-walk/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
@@ -366,7 +393,7 @@
     <item>
       <title>Stochastic differential equations</title>
       <link>/tags/stochastic-differential-equations/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/stochastic-differential-equations/</guid>
       <description></description>

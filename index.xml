@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations</title>
+      <link>/publication/gloaguen_lecorff_olsson2019/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
       <link>/publication/gassiat_lehericy_lecorff_2019/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
@@ -195,15 +204,6 @@ and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/durmus_lecorff_moulines_roberts_2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Particle rejuvenation of Rao-Blackwellized Sequential Monte Carlo smoothers for Conditionally Linear and Gaussian models</title>
-      <link>/publication/nguyen_lecorff_moulines_2017/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/nguyen_lecorff_moulines_2017/</guid>
       <description></description>
     </item>
     
