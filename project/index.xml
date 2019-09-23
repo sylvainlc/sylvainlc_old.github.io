@@ -66,12 +66,12 @@ Smoothing of linear Gaussian models with Markov regime. Applications to commodit
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/teaching/</guid>
-      <description>Introduction to computational statistics, machine learning and deep learning
+      <description>Lecture Notes
+Bayesian inference for partially observed dynamical systems pdf. Introduction to Markov chains and Markov chain Monte Carlo methods
+Introduction to machine learning pdf. Dimension reduction, supervised classification, multilinear regression, gradient based optimization&amp;hellip;
+Introduction to computational statistics, machine learning and deep learning
 Ateliers SFDS 2019: MCMC and introduction to Hamiltonian Monte Carlo HMC, ABC and variational (Python ipynb)
-Dimension reduction (SVD, PCA, use before machine learning algorithms) PCA (Python ipynb).
-Introduction to machine learning (random forest, gradient descent, feed forward neural networks) Intro to machine learning (Python ipynb).
-Machine learning algorithms for the Ms. Sc. Advanced Machine learning (3rd year) @Ecole Polytechnique
-AdaBoost and Random forests pdf.</description>
+Dimension reduction (SVD, PCA, use before machine learning algorithms) PCA (Python ipynb).</description>
     </item>
     
   </channel>
