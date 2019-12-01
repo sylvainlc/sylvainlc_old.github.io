@@ -66,11 +66,10 @@ Smoothing of linear Gaussian models with Markov regime. Applications to commodit
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/teaching/</guid>
-      <description>Bayesian inference for partially observed dynamical systems Ms. Sc. Data Sciences (2nd year / M2) @Institut Polytechnique de Paris
-Lecture Notes. Introduction to Markov chains and Markov chain Monte Carlo methods TD2. Maximum likelihood estimation for Markov chains
-Introduction to machine learning Ms. Eng. (2nd year) @Institut Polytechnique de Paris
-Lecture notes. Dimension reduction, supervised classification, multilinear regression, gradient based optimization&amp;hellip;
-Dimension reduction: Principal component analysis, independent component analysis Slides and Practical session (Python ipynb)</description>
+      <description>Lecture notes Introduction to Markov chains and Markov chain Monte Carlo methods. Ms. Sc. Data Sciences (2nd year / M2) @Institut Polytechnique de Paris
+Introduction to machine learning. Ms. Eng. (2nd year) @Institut Polytechnique de Paris Dimension reduction, supervised classification, multilinear regression, gradient based optimization&amp;hellip;
+Bayesian inference for partially observed dynamical systems Ms. Sc. Data Sciences (2nd year / M2) @Institut Polytechnique de Paris
+TD2. Maximum likelihood estimation for Markov chains</description>
     </item>
     
   </channel>
