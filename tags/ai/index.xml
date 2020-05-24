@@ -22,12 +22,16 @@
     </item>
     
     <item>
-      <title>Data sciences working groups</title>
+      <title>Data sciences material</title>
       <link>/project/datascienceswg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/datascienceswg/</guid>
-      <description>Session 1: From machine learning basics to Feed Forward Neural Networks
+      <description>GdR ISIS seminar Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
+Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level
+Nicolas Brosse: Uncertainties for classification tasks in Deep Neural Networks: a last layer approach
+Gianni Franchi: Tracking deep neural network weight distributions
+ Data sciences working group  Session 1: From machine learning basics to Feed Forward Neural Networks
 Session 2: Optimization for machine/deep learning</description>
     </item>
     
