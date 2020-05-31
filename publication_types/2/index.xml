@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
+      <link>/publication/gassiat_lehericy_lecorff_2019/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning the distribution of latent variables in paired comparison models</title>
@@ -27,15 +36,6 @@
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
-      <link>/publication/gassiat_lehericy_lecorff_2019/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
       <description></description>
     </item>
     

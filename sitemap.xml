@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/etienne_gloaguen_lecorff_olsson2020/</loc>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/gassiat_lehericy_lecorff_2019/</loc>
+      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/diel_lecorff_lerasle_2020/</loc>
       <lastmod>2020-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -16,15 +34,6 @@
     
       <loc>/publication/gloaguen_lecorff_olsson2019/</loc>
       <lastmod>2019-02-09T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/gassiat_lehericy_lecorff_2019/</loc>
-      <lastmod>2019-02-04T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -348,7 +357,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -358,7 +367,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -398,7 +407,7 @@
     <url>
     
       <loc>/tags/asymptotic-normality/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -458,7 +467,7 @@
     <url>
     
       <loc>/tags/consistency/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -478,7 +487,7 @@
     <url>
     
       <loc>/tags/deconvolution/</loc>
-      <lastmod>2019-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -518,7 +527,7 @@
     <url>
     
       <loc>/tags/general-state-space/</loc>
-      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -528,7 +537,7 @@
     <url>
     
       <loc>/tags/identifiability/</loc>
-      <lastmod>2019-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -538,7 +547,7 @@
     <url>
     
       <loc>/tags/latent-data/</loc>
-      <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -718,7 +727,7 @@
     <url>
     
       <loc>/tags/particle-filters/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -728,7 +737,7 @@
     <url>
     
       <loc>/tags/particle-smoothers/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -738,7 +747,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -828,7 +837,7 @@
     <url>
     
       <loc>/tags/stochastic-differential-equations/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -878,7 +887,7 @@
     <url>
     
       <loc>/tags/translation-models/</loc>
-      <lastmod>2019-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

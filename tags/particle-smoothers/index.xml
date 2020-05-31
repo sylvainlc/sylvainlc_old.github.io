@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/particle-smoothers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Backward importance sampling for partially observed diffusion processes</title>
+      <link>/publication/etienne_gloaguen_lecorff_olsson2020/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/etienne_gloaguen_lecorff_olsson2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations</title>
