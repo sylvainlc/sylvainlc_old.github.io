@@ -18,12 +18,12 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/datascienceswg/</guid>
-      <description>GdR ISIS seminar Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
-Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level
-Nicolas Brosse: Uncertainties for classification tasks in Deep Neural Networks: a last layer approach
-Gianni Franchi: Tracking deep neural network weight distributions
- Data sciences working group  Session 1: From machine learning basics to Feed Forward Neural Networks
-Session 2: Optimization for machine/deep learning</description>
+      <description>Seminaire des doctorants - 02/06/2020  Alice Martin: The Sequential Monte Carlo Transformer
+Elie Azeraf: Les chaines de Markov pour la segmentation de texte
+Aurelien Enfroy: Borne de convergence explicite pour l&amp;rsquo;algorithme Langevin Monte Carlo cinetique.
+Clement Fernandes: Segmentation d&amp;rsquo;images par modeles semi-Markoviens evidentiels
+ GdR ISIS seminar - 11/05/2020 Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
+Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level</description>
     </item>
     
   </channel>
