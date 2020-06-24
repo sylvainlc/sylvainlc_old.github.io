@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rao Blackwellisation on Sylvain Le Corff</title>
+    <title>Rao-Blackwellisation on Sylvain Le Corff</title>
     <link>/tags/rao-blackwellisation/</link>
-    <description>Recent content in Rao Blackwellisation on Sylvain Le Corff</description>
+    <description>Recent content in Rao-Blackwellisation on Sylvain Le Corff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/rao-blackwellisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Statistical inference for oscillation processes</title>
-      <link>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0200</pubDate>
+      <title>Particle rejuvenation of Rao-Blackwellized Sequential Monte Carlo smoothers for Conditionally Linear and Gaussian models</title>
+      <link>/publication/nguyen_lecorff_moulines_2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
-      <guid>/publication/dahlhaus_dumont_lecorff_neddermeyer_2017/</guid>
+      <guid>/publication/nguyen_lecorff_moulines_2017/</guid>
       <description></description>
     </item>
     
