@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/publication/gassiat_lehericy_lecorff_2020/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cohen_etal_2020/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/etienne_gloaguen_lecorff_olsson2020/</loc>
       <lastmod>2020-02-09T00:00:00+01:00</lastmod>
     </url>
@@ -357,7 +375,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -367,7 +385,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -467,7 +485,7 @@
     <url>
     
       <loc>/tags/consistency/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -487,7 +505,17 @@
     <url>
     
       <loc>/tags/deconvolution/</loc>
-      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -526,8 +554,28 @@
     
     <url>
     
+      <loc>/tags/end-to-end/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/energy/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/general-state-space/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -537,7 +585,7 @@
     <url>
     
       <loc>/tags/identifiability/</loc>
-      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -547,7 +595,7 @@
     <url>
     
       <loc>/tags/latent-data/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -618,6 +666,16 @@
     
       <loc>/tags/maximum-likelihood/</loc>
       <lastmod>2020-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/metamodel/</loc>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -747,7 +805,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -887,7 +945,7 @@
     <url>
     
       <loc>/tags/translation-models/</loc>
-      <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
