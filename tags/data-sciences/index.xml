@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data sciences on Sylvain Le Corff</title>
+    <link>/tags/data-sciences/</link>
+    <description>Recent content in Data sciences on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/data-sciences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data sciences @TSP</title>
+      <link>/project/datasciences/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/datasciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data sciences material</title>
+      <link>/project/datascienceswg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/datascienceswg/</guid>
+      <description>Seminaire des doctorants - 02/06/2020  Alice Martin: The Sequential Monte Carlo Transformer
+Elie Azeraf: Les chaines de Markov pour la segmentation de texte
+Aurelien Enfroy: Borne de convergence explicite pour l&amp;rsquo;algorithme Langevin Monte Carlo cinetique.
+Clement Fernandes: Segmentation d&amp;rsquo;images par modeles semi-Markoviens evidentiels
+ GdR ISIS seminar - 11/05/2020 Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
+Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level</description>
+    </item>
+    
+  </channel>
+</rss>

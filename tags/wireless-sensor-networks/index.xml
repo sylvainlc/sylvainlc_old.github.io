@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireless sensor networks on Sylvain Le Corff</title>
+    <link>/tags/wireless-sensor-networks/</link>
+    <description>Recent content in Wireless sensor networks on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/wireless-sensor-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simultaneous localization and mapping problem in wireless sensor networks</title>
+      <link>/publication/dumont_lecorff_2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/dumont_lecorff_2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

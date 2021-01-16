@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian nonparametric on Sylvain Le Corff</title>
+    <link>/tags/bayesian-nonparametric/</link>
+    <description>Recent content in Bayesian nonparametric on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/bayesian-nonparametric/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
+      <link>/publication/lecorff_lerasle_vernet_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_lerasle_vernet_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

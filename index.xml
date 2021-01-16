@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvain Le Corff on Sylvain Le Corff</title>
+    <link>/</link>
+    <description>Recent content in Sylvain Le Corff on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning the distribution of latent variables in paired comparison models</title>
+      <link>/publication/diel_lecorff_lerasle_2020/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/diel_lecorff_lerasle_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Monte Carlo Transformer: a stochastic self-attention model for sequence prediction</title>
+      <link>/publication/martin_etal_2020/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martin_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deconvolution with unknown noise distribution is possible for multivariate signals</title>
+      <link>/publication/gassiat_lehericy_lecorff_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/gassiat_lehericy_lecorff_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end deep metamodeling to calibrate and optimize energy loads</title>
+      <link>/publication/cohen_etal_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cohen_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backward importance sampling for partially observed diffusion processes</title>
+      <link>/publication/etienne_gloaguen_lecorff_olsson2020/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/etienne_gloaguen_lecorff_olsson2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifiability and consistent estimation of nonparametric translation hidden Markov models with general state space</title>
+      <link>/publication/gassiat_lehericy_lecorff_2019/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations</title>
+      <link>/publication/gloaguen_lecorff_olsson2019/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGA call - AI</title>
+      <link>/datasciencesattsp/12_19_dga_ia/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/12_19_dga_ia/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+DGA call about AI oriented procedures for mid-term defense applications. &lt;/br&gt;
+&lt;b&gt;General presentation of the call&lt;/b&gt; &lt;a href=&#34;https://www.defense.gouv.fr/dga/actualite/preselection-de-projets-ia-appel-a-proposition&#34;&gt;DGA call for IA&lt;/a&gt; 
+&lt;/br&gt;
+&lt;/br&gt;
+Four main topics &lt;b&gt;Fusion, correlation, detection of weak signals in high dimension&lt;/b&gt;, 
+&lt;b&gt; detection in low signal to noise ratio settings&lt;/b&gt;, &lt;b&gt;defensive cyber warfare&lt;/b&gt; and &lt;b&gt;Autonomous mobile robotics&lt;/b&gt;.
+
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;b&gt;Deadline  8 of January 2019 at 5p.m.&lt;/b&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>H2020 calls - Big Data &amp; AI</title>
+      <link>/datasciencesattsp/12_18_h2020/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/12_18_h2020/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+General presentation of the H2020 calls in early 2019 related to Big Data, Data sciences and Artificial Intelligence.&lt;/br&gt;
+&lt;/br&gt;
+A general presentation by &lt;b&gt;Pierre Simay&lt;/b&gt;, &lt;b&gt;Isabelle de Sutter&lt;/b&gt; and &lt;b&gt;Julia Morawski&lt;/b&gt;: &lt;a href=&#34;/files/H2020/IA_Calls_H2020_Final.pdf&#34;&gt;H2020 calls&lt;/a&gt;.
+&lt;/br&gt;
+&lt;/br&gt;
+Other presentations by companies &amp; teams involved in data sciences projects relevant for these calls.
+If you are interested in some of these projects/calls or if you are already involved in a process for one of these H2020 calls please contact me at &lt;b&gt;sylvain.le_corff@telecom-sudparis.eu&lt;/b&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Calmedica.pdf&#34;&gt;Calmedica by Alexis Hernot&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Linkfluence.pdf&#34;&gt;Linkfluence by Benoit Tabutiaux&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Montimage.pdf&#34;&gt;Montimage by Edgardo Montesdeoca&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Oodrive.pdf&#34;&gt;Oodrive by Amdjed Mokhtari&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Sidetade.pdf&#34;&gt;Sidetrade by Francois Bancilhon&lt;/a&gt;&lt;/br&gt;
+&lt;a href=&#34;/files/H2020/Teralab.pdf&#34;&gt;Teralab by Anne-Sophie Taillandier&lt;/a&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of data sciences at Telecom SudParis</title>
+      <link>/datasciencesattsp/12_18_carto/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/12_18_carto/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt; &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
+This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences.
+
+&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of data sciences at Telecom SudParis</title>
+      <link>/datascienceswg/12_18_carto/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datascienceswg/12_18_carto/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt; &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
+This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences.
+
+&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some statistical insights for neural networks</title>
+      <link>/datasciencesattsp/09_18_statinsightdl/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt; 
+This session is dedicated to highlight some new statistical insights on the way to tune deep neural
+ networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 
+by Samuel Schoenholz,  Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), 
+Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford)  analyze in 
+&lt;a href=&#34;https://arxiv.org/abs/1805.08266&#34;&gt;On the Selection of Initialization and Activation Function for Deep Neural Networks&lt;/a&gt; 
+the &lt;b&gt;edge of chaos&lt;/b&gt; as a criterion to choose the activation function of the neural network.&lt;br&gt;
+
+Consider a fully connected random neural network with depth $L\in\mathbb{N}^{\star}$ and widths $(N_{\ell})_{1\leqslant \ell\leqslant L}$. For some input $x\in\mathbb{R}^d$ and some activation function,
+$\phi:\mathbb{R}\to \mathbb{R}$, for all $\ell\geqslant 2$,
+\begin{align*}
+y_{i}^1(x) &amp;= \sum_{j=1}^d W_{i,j}^1\,x_j + B_i^1\,,\\
+y_{i}^{\ell}(x) &amp;= \sum_{j=1}^{N_{\ell-1}} W_{i,j}^{\ell}\,\phi\left(y_{j}^{\ell-1}(x)\right) + B_i^{\ell}\,,
+\end{align*}
+where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2/N_{\ell-1})$ 
+and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
+      <link>/publication/lecorff_lerasle_vernet_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_lerasle_vernet_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing thermal comfort and energy consumption in a large building without renovation work</title>
+      <link>/publication/lecorff_charbit_champagne_noziere_moulines_2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lecorff_charbit_champagne_noziere_moulines_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

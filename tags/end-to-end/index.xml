@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>End-to-end on Sylvain Le Corff</title>
+    <link>/tags/end-to-end/</link>
+    <description>Recent content in End-to-end on Sylvain Le Corff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/end-to-end/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Monte Carlo Transformer: a stochastic self-attention model for sequence prediction</title>
+      <link>/publication/martin_etal_2020/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martin_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end deep metamodeling to calibrate and optimize energy loads</title>
+      <link>/publication/cohen_etal_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cohen_etal_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
