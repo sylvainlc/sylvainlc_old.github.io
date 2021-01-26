@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Data sciences @TSP</title>
-      <link>/project/datasciences/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/datasciences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data sciences material</title>
       <link>/project/datascienceswg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -31,6 +22,7 @@
 Elie Azeraf: Les chaines de Markov pour la segmentation de texte
 Aurelien Enfroy: Borne de convergence explicite pour l&amp;rsquo;algorithme Langevin Monte Carlo cinetique.
 Clement Fernandes: Segmentation d&amp;rsquo;images par modeles semi-Markoviens evidentiels
+
  GdR ISIS seminar - 11/05/2020 Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
 Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level</description>
     </item>

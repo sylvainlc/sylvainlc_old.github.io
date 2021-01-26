@@ -26,15 +26,6 @@ The parameters are estimated with the Block Online EM algorithm, see Le Corff an
     </item>
     
     <item>
-      <title>Data sciences @TSP</title>
-      <link>/project/datasciences/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/datasciences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data sciences material</title>
       <link>/project/datascienceswg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -44,6 +35,7 @@ The parameters are estimated with the Block Online EM algorithm, see Le Corff an
 Elie Azeraf: Les chaines de Markov pour la segmentation de texte
 Aurelien Enfroy: Borne de convergence explicite pour l&amp;rsquo;algorithme Langevin Monte Carlo cinetique.
 Clement Fernandes: Segmentation d&amp;rsquo;images par modeles semi-Markoviens evidentiels
+
  GdR ISIS seminar - 11/05/2020 Apprentissage profond et modeles generatifs pour modeliser l&amp;rsquo;incertitude des donnees
 Julyan Arbel: Understanding Priors in Bayesian Neural Networks at the Unit Level</description>
     </item>
@@ -62,20 +54,6 @@ Thi Ngoc Minh Nguyen (Telecom ParisTech &amp;amp; Lunalogic, 2015 - 2016)
 Co-supervised with Eric Moulines (Ecole Polytechnique)
 Smoothing of linear Gaussian models with Markov regime. Applications to commodity market models
 06-18 - &amp;hellip; Quantitative Porfolio Manager at Q-Hedge Technologies</description>
-    </item>
-    
-    <item>
-      <title>Teaching materials (Machine Learning, Statistics)</title>
-      <link>/project/teaching/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/project/teaching/</guid>
-      <description>Lecture notes
-Introduction to Markov chains and Markov chain Monte Carlo methods. Ms. Sc. Data Sciences (2nd year / M2) @Institut Polytechnique de Paris
-Introduction to machine learning. Ms. Eng. (2nd year) @Institut Polytechnique de Paris Dimension reduction, supervised classification, multilinear regression, gradient based optimization&amp;hellip;
-Bayesian inference for partially observed dynamical systems Ms. Sc. Data Sciences (2nd year / M2) @Institut Polytechnique de Paris
-Markov chains Exercises
-Maximum likelihood estimation for Markov chains Exercises</description>
     </item>
     
   </channel>
