@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/ollion_etal_2021/</loc>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/diel_lecorff_lerasle_2020/</loc>
       <lastmod>2020-08-27T00:00:00+02:00</lastmod>
     </url>
@@ -357,7 +366,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2020-07-11T00:00:00+02:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,6 +445,16 @@
     
     <url>
     
+      <loc>/tags/blind-denoising/</loc>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/call-for-proposals/</loc>
       <lastmod>2018-12-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -487,7 +506,7 @@
     <url>
     
       <loc>/tags/deconvolution/</loc>
-      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -497,7 +516,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2020-07-11T00:00:00+02:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -686,6 +705,16 @@
     
     <url>
     
+      <loc>/tags/noise-estimation/</loc>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/nonlinear-filtering/</loc>
       <lastmod>2018-03-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -787,7 +816,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2020-07-11T00:00:00+02:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -828,6 +857,16 @@
     
       <loc>/tags/risk-bounds/</loc>
       <lastmod>2020-08-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/self-supervised/</loc>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

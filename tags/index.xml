@@ -67,6 +67,15 @@
     </item>
     
     <item>
+      <title>Blind denoising</title>
+      <link>/tags/blind-denoising/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/blind-denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Central limit theorem</title>
       <link>/tags/central-limit-theorem/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
@@ -96,7 +105,7 @@
     <item>
       <title>Deconvolution</title>
       <link>/tags/deconvolution/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>/tags/deconvolution/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>Deep learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
@@ -265,6 +274,15 @@
     </item>
     
     <item>
+      <title>Noise estimation</title>
+      <link>/tags/noise-estimation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/noise-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nonlinear filtering</title>
       <link>/tags/nonlinear-filtering/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
@@ -387,6 +405,15 @@
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
       
       <guid>/tags/risk-bounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised</title>
+      <link>/tags/self-supervised/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/self-supervised/</guid>
       <description></description>
     </item>
     
