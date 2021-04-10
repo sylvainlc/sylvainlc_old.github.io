@@ -17,7 +17,7 @@
       
     
   
-  <meta name="description" content="This paper focuses on the estimation of smoothing distributions in general state space models where the transition density of the hidden Markov chain or the conditional likelihood of the observations given the latent state cannot be evaluated pointwise. The consistency and asymptotic normality of a pseudo marginal online algorithm to estimate smoothed expectations of additive functionals when these quantities are replaced by unbiased estimators are established. A recursive maximum likelihood estimation procedure is also introduced by combining this online algorithm with an estimation of the gradient of the filtering distributions, also known as the tangent filters, when the model is driven by unknown parameters. The performance of this estimator is assessed in the case of a partially observed stochastic differential equation.">
+  <meta name="description" content="We consider online computation of expectations of additive state functionals under general path probability measures proportional to products of unnormalised transition densities. These transition densities are assumed to be intractable but possible to estimate, with or without bias. Using pseudo-marginalisation techniques we are able to extend the particle-based, rapid incremental smoother (PaRIS) algorithm proposed in (J. Olsson and J. Westerborn. Efficient particle-based online smoothing in general hidden Markov models: The PaRIS algorithm. Bernoulli, 23(3):1951--1996, 2017) to this setting. The resulting algorithm, which has a linear complexity in the number of particles and constant memory requirements, applies to a wide range of challenging path-space Monte Carlo problems, including smoothing in partially observed diffusion processes and models with intractable likelihood. The algorithm is furnished with several theoretical results, including a central limit theorem, establishing its convergence and numerical stability. Moreover, under strong mixing assumptions we establish a novel O(n epsilon) bound on the asymptotic bias of the algorithm, where n is the path length and epsilon controls the bias of the density estimators.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/gloaguen_lecorff_olsson2019/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Sylvain Le Corff">
   <meta property="og:url" content="/publication/gloaguen_lecorff_olsson2019/">
-  <meta property="og:title" content="Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations | Sylvain Le Corff">
-  <meta property="og:description" content="This paper focuses on the estimation of smoothing distributions in general state space models where the transition density of the hidden Markov chain or the conditional likelihood of the observations given the latent state cannot be evaluated pointwise. The consistency and asymptotic normality of a pseudo marginal online algorithm to estimate smoothed expectations of additive functionals when these quantities are replaced by unbiased estimators are established. A recursive maximum likelihood estimation procedure is also introduced by combining this online algorithm with an estimation of the gradient of the filtering distributions, also known as the tangent filters, when the model is driven by unknown parameters. The performance of this estimator is assessed in the case of a partially observed stochastic differential equation.">
+  <meta property="og:title" content="A pseudo-marginal sequential Monte Carlo online smoothing algorithm | Sylvain Le Corff">
+  <meta property="og:description" content="We consider online computation of expectations of additive state functionals under general path probability measures proportional to products of unnormalised transition densities. These transition densities are assumed to be intractable but possible to estimate, with or without bias. Using pseudo-marginalisation techniques we are able to extend the particle-based, rapid incremental smoother (PaRIS) algorithm proposed in (J. Olsson and J. Westerborn. Efficient particle-based online smoothing in general hidden Markov models: The PaRIS algorithm. Bernoulli, 23(3):1951--1996, 2017) to this setting. The resulting algorithm, which has a linear complexity in the number of particles and constant memory requirements, applies to a wide range of challenging path-space Monte Carlo problems, including smoothing in partially observed diffusion processes and models with intractable likelihood. The algorithm is furnished with several theoretical results, including a central limit theorem, establishing its convergence and numerical stability. Moreover, under strong mixing assumptions we establish a novel O(n epsilon) bound on the asymptotic bias of the algorithm, where n is the path length and epsilon controls the bias of the density estimators.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-02-09T00:00:00&#43;01:00">
@@ -105,7 +105,7 @@
 
   
 
-  <title>Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations | Sylvain Le Corff</title>
+  <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm | Sylvain Le Corff</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -244,7 +244,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Online pseudo Marginal Sequential Monte Carlo smoother for general state spaces. Application to recursive maximum likelihood estimation of stochastic differential equations</h1>
+    <h1 itemprop="name">A pseudo-marginal sequential Monte Carlo online smoothing algorithm</h1>
     <span class="pub-authors" itemprop="author">
       
       Gloaguen, P., Le Corff, S., Olsson, J.
@@ -259,7 +259,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper focuses on the estimation of smoothing distributions in general state space models where the transition density of the hidden Markov chain or the conditional likelihood of the observations given the latent state cannot be evaluated pointwise. The consistency and asymptotic normality of a pseudo marginal online algorithm to estimate smoothed expectations of additive functionals when these quantities are replaced by unbiased estimators are established. A recursive maximum likelihood estimation procedure is also introduced by combining this online algorithm with an estimation of the gradient of the filtering distributions, also known as the tangent filters, when the model is driven by unknown parameters. The performance of this estimator is assessed in the case of a partially observed stochastic differential equation.</p>
+    <p class="pub-abstract" itemprop="text">We consider online computation of expectations of additive state functionals under general path probability measures proportional to products of unnormalised transition densities. These transition densities are assumed to be intractable but possible to estimate, with or without bias. Using pseudo-marginalisation techniques we are able to extend the particle-based, rapid incremental smoother (PaRIS) algorithm proposed in (J. Olsson and J. Westerborn. Efficient particle-based online smoothing in general hidden Markov models: The PaRIS algorithm. Bernoulli, 23(3):1951&ndash;1996, 2017) to this setting. The resulting algorithm, which has a linear complexity in the number of particles and constant memory requirements, applies to a wide range of challenging path-space Monte Carlo problems, including smoothing in partially observed diffusion processes and models with intractable likelihood. The algorithm is furnished with several theoretical results, including a central limit theorem, establishing its convergence and numerical stability. Moreover, under strong mixing assumptions we establish a novel O(n epsilon) bound on the asymptotic bias of the algorithm, where n is the path length and epsilon controls the bias of the density estimators.</p>
     
 
     
