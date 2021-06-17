@@ -17,7 +17,7 @@
       
     
   
-  <meta name="description" content="This paper proposes a new Sequential Monte Carlo algorithm to perform maximum likelihood estimation in partially observed diffusion processes. Training such generative models and obtaining low variance estimators of the posterior distributions of the latent states given the observations is challenging as the transition densities of the latent states cannot be evaluated pointwise. In this paper, a backward importance sampling step is introduced to estimate such posterior distributions instead of the usual acceptance-rejection approach. This allows to use unbiased estimates of the unknown transition densities available under mild assumptions for multivariate stochastic differential equations while acceptance-rejection based methods require strong conditions to obtain upper-bounded estimators. The performance of this estimator is assessed in the case of a partially observed stochastic Lotka-Volterra model.">
+  <meta name="description" content="This paper proposes a new Sequential Monte Carlo algorithm to perform online estimation in the context of state space models when either the transition density of the latent state or the conditional likelihood of an observation given a state is intractable. In this setting, obtaining low variance estimators of expectations under the posterior distributions of the unobserved states given the observations is a challenging task. Following recent theoretical results for pseudo-marginal sequential Monte Carlo smoothers, a pseudo-marginal backward importance sampling step is introduced to estimate such expectations. This new step allows to reduce very significantly the computational time of the existing numerical solutions based on an acceptance-rejection procedure for similar performance, and to broaden the class of eligible models for such methods. For instance, in the context of multivariate stochastic differential equations, the proposed algorithm makes use of unbiased estimates of the unknown transition densities under much weaker assumptions than standard alternatives. The performance of this estimator is assessed for high-dimensional discrete-time latent data models, for recursive maximum likelihood estimation in the context of partially observed diffusion process, and in the case of a bidimensional partially observed stochastic Lotka-Volterra model.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/etienne_gloaguen_lecorff_olsson2020/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Sylvain Le Corff">
   <meta property="og:url" content="/publication/etienne_gloaguen_lecorff_olsson2020/">
-  <meta property="og:title" content="Backward importance sampling for partially observed diffusion processes | Sylvain Le Corff">
-  <meta property="og:description" content="This paper proposes a new Sequential Monte Carlo algorithm to perform maximum likelihood estimation in partially observed diffusion processes. Training such generative models and obtaining low variance estimators of the posterior distributions of the latent states given the observations is challenging as the transition densities of the latent states cannot be evaluated pointwise. In this paper, a backward importance sampling step is introduced to estimate such posterior distributions instead of the usual acceptance-rejection approach. This allows to use unbiased estimates of the unknown transition densities available under mild assumptions for multivariate stochastic differential equations while acceptance-rejection based methods require strong conditions to obtain upper-bounded estimators. The performance of this estimator is assessed in the case of a partially observed stochastic Lotka-Volterra model.">
+  <meta property="og:title" content="Backward importance sampling for online estimation of state space models | Sylvain Le Corff">
+  <meta property="og:description" content="This paper proposes a new Sequential Monte Carlo algorithm to perform online estimation in the context of state space models when either the transition density of the latent state or the conditional likelihood of an observation given a state is intractable. In this setting, obtaining low variance estimators of expectations under the posterior distributions of the unobserved states given the observations is a challenging task. Following recent theoretical results for pseudo-marginal sequential Monte Carlo smoothers, a pseudo-marginal backward importance sampling step is introduced to estimate such expectations. This new step allows to reduce very significantly the computational time of the existing numerical solutions based on an acceptance-rejection procedure for similar performance, and to broaden the class of eligible models for such methods. For instance, in the context of multivariate stochastic differential equations, the proposed algorithm makes use of unbiased estimates of the unknown transition densities under much weaker assumptions than standard alternatives. The performance of this estimator is assessed for high-dimensional discrete-time latent data models, for recursive maximum likelihood estimation in the context of partially observed diffusion process, and in the case of a bidimensional partially observed stochastic Lotka-Volterra model.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2020-02-09T00:00:00&#43;01:00">
@@ -105,7 +105,7 @@
 
   
 
-  <title>Backward importance sampling for partially observed diffusion processes | Sylvain Le Corff</title>
+  <title>Backward importance sampling for online estimation of state space models | Sylvain Le Corff</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -244,10 +244,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Backward importance sampling for partially observed diffusion processes</h1>
+    <h1 itemprop="name">Backward importance sampling for online estimation of state space models</h1>
     <span class="pub-authors" itemprop="author">
       
-      Etienne, M.-P., Gloaguen, P., Le Corff, S., Olsson, J.
+      Martin, A., Etienne, M.-P., Gloaguen, P., Le Corff, S., Olsson, J.
       
     </span>
     <span class="pull-right">
@@ -259,7 +259,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper proposes a new Sequential Monte Carlo algorithm to perform maximum likelihood estimation in partially observed diffusion processes. Training such generative models and obtaining low variance estimators of the posterior distributions of the latent states given the observations is challenging as the transition densities of the latent states cannot be evaluated pointwise. In this paper, a backward importance sampling step is introduced to estimate such posterior distributions instead of the usual acceptance-rejection approach. This allows to use unbiased estimates of the unknown transition densities available under mild assumptions for multivariate stochastic differential equations while acceptance-rejection based methods require strong conditions to obtain upper-bounded estimators. The performance of this estimator is assessed in the case of a partially observed stochastic Lotka-Volterra model.</p>
+    <p class="pub-abstract" itemprop="text">This paper proposes a new Sequential Monte Carlo algorithm to perform online estimation in the context of state space models when either the transition density of the latent state or the conditional likelihood of an observation given a state is intractable. In this setting, obtaining low variance estimators of expectations under the posterior distributions of the unobserved states given the observations is a challenging task. Following recent theoretical results for pseudo-marginal sequential Monte Carlo smoothers, a pseudo-marginal backward importance sampling step is introduced to estimate such expectations. This new step allows to reduce very significantly the computational time of the existing numerical solutions based on an acceptance-rejection procedure for similar performance, and to broaden the class of eligible models for such methods. For instance, in the context of multivariate stochastic differential equations, the proposed algorithm makes use of unbiased estimates of the unknown transition densities under much weaker assumptions than standard alternatives. The performance of this estimator is assessed for high-dimensional discrete-time latent data models, for recursive maximum likelihood estimation in the context of partially observed diffusion process, and in the case of a bidimensional partially observed stochastic Lotka-Volterra model.</p>
     
 
     

@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/gassiat_lehericy_lecorff_2020/</loc>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/thin_etal_2021/</loc>
       <lastmod>2021-03-01T00:00:00+01:00</lastmod>
     </url>
@@ -34,15 +43,6 @@
     
       <loc>/publication/martin_etal_2020/</loc>
       <lastmod>2020-07-11T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/gassiat_lehericy_lecorff_2020/</loc>
-      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -385,7 +385,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-08-27T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -495,7 +495,7 @@
     <url>
     
       <loc>/tags/consistency/</loc>
-      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -515,7 +515,7 @@
     <url>
     
       <loc>/tags/deconvolution/</loc>
-      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -585,7 +585,7 @@
     <url>
     
       <loc>/tags/general-state-space/</loc>
-      <lastmod>2020-08-27T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -595,7 +595,7 @@
     <url>
     
       <loc>/tags/identifiability/</loc>
-      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -615,7 +615,7 @@
     <url>
     
       <loc>/tags/latent-data/</loc>
-      <lastmod>2020-08-27T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1005,7 +1005,7 @@
     <url>
     
       <loc>/tags/translation-models/</loc>
-      <lastmod>2020-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
