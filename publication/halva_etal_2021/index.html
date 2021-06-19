@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="This paper considers the deconvolution problem in the case where the target signal is multidimensional and no information is known about the noise distribution. More precisely, no assumption is made on the noise distribution and no samples are available to estimate it: the deconvolution problem is solved based only on the corrupted signal observations. We establish the identifiability of the model up to translation when the signal has a Laplace transform with an exponential growth smaller than 2 and when it can be decomposed into two dependent components. Then, we propose an estimator of the probability density function of the signal without any assumption on the noise distribution. As this estimator depends of the lightness of the tail of the signal distribution which is usually unknown, a model selection procedure is proposed to obtain an adaptive estimator in this parameter with the same rate of convergence as the estimator with a known tail parameter. Finally, we establish a lower bound on the minimax rate of convergence that matches the upper bound.">
+  <meta name="description" content="We introduce a new general identifiable framework for principled disentanglement referred to as Structured Nonlinear Independent Component Analysis (SNICA). Our contribution is to extend the identifiability theory of deep generative models for a very broad class of structured models. While previous works have shown identifiability for specific classes of time-series models, our theorems extend this to more general temporal structures as well as to models with more complex structures such as spatial dependencies. In particular, we establish the major result that identifiability for this framework holds even in the presence of noise of unknown distribution. The SNICA setting therefore subsumes all the existing nonlinear ICA models for time-series and also allows for new much richer identifiable models. Finally, as an example of our framework&#39;s flexibility, we introduce the first nonlinear ICA model for time-series that combines the following very useful properties: it accounts for both nonstationarity and autocorrelation in a fully unsupervised setting; performs dimensionality reduction; models hidden states; and enables principled estimation and inference by variational maximum-likelihood.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/gassiat_lehericy_lecorff_2020/">
+  <link rel="alternate" hreflang="en-us" href="/publication/halva_etal_2021/">
 
   
 
@@ -86,14 +86,14 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/gassiat_lehericy_lecorff_2020/">
+  <link rel="canonical" href="/publication/halva_etal_2021/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Sylvain Le Corff">
-  <meta property="og:url" content="/publication/gassiat_lehericy_lecorff_2020/">
-  <meta property="og:title" content="Deconvolution with unknown noise distribution is possible for multivariate signals | Sylvain Le Corff">
-  <meta property="og:description" content="This paper considers the deconvolution problem in the case where the target signal is multidimensional and no information is known about the noise distribution. More precisely, no assumption is made on the noise distribution and no samples are available to estimate it: the deconvolution problem is solved based only on the corrupted signal observations. We establish the identifiability of the model up to translation when the signal has a Laplace transform with an exponential growth smaller than 2 and when it can be decomposed into two dependent components. Then, we propose an estimator of the probability density function of the signal without any assumption on the noise distribution. As this estimator depends of the lightness of the tail of the signal distribution which is usually unknown, a model selection procedure is proposed to obtain an adaptive estimator in this parameter with the same rate of convergence as the estimator with a known tail parameter. Finally, we establish a lower bound on the minimax rate of convergence that matches the upper bound.">
+  <meta property="og:url" content="/publication/halva_etal_2021/">
+  <meta property="og:title" content="Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA | Sylvain Le Corff">
+  <meta property="og:description" content="We introduce a new general identifiable framework for principled disentanglement referred to as Structured Nonlinear Independent Component Analysis (SNICA). Our contribution is to extend the identifiability theory of deep generative models for a very broad class of structured models. While previous works have shown identifiability for specific classes of time-series models, our theorems extend this to more general temporal structures as well as to models with more complex structures such as spatial dependencies. In particular, we establish the major result that identifiability for this framework holds even in the presence of noise of unknown distribution. The SNICA setting therefore subsumes all the existing nonlinear ICA models for time-series and also allows for new much richer identifiable models. Finally, as an example of our framework&#39;s flexibility, we introduce the first nonlinear ICA model for time-series that combines the following very useful properties: it accounts for both nonstationarity and autocorrelation in a fully unsupervised setting; performs dimensionality reduction; models hidden states; and enables principled estimation and inference by variational maximum-likelihood.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2021-06-01T00:00:00&#43;02:00">
@@ -105,7 +105,7 @@
 
   
 
-  <title>Deconvolution with unknown noise distribution is possible for multivariate signals | Sylvain Le Corff</title>
+  <title>Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA | Sylvain Le Corff</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -244,10 +244,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Deconvolution with unknown noise distribution is possible for multivariate signals</h1>
+    <h1 itemprop="name">Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</h1>
     <span class="pub-authors" itemprop="author">
       
-      Gassiat, E., Le Corff, S., Lehericy, L.
+      Halva, H., Le Corff, S., Lehericy, L., So, J., Zhu, Y., Gassiat, E., Hyvarinen, A.
       
     </span>
     <span class="pull-right">
@@ -259,7 +259,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">This paper considers the deconvolution problem in the case where the target signal is multidimensional and no information is known about the noise distribution. More precisely, no assumption is made on the noise distribution and no samples are available to estimate it: the deconvolution problem is solved based only on the corrupted signal observations. We establish the identifiability of the model up to translation when the signal has a Laplace transform with an exponential growth smaller than 2 and when it can be decomposed into two dependent components. Then, we propose an estimator of the probability density function of the signal without any assumption on the noise distribution. As this estimator depends of the lightness of the tail of the signal distribution which is usually unknown, a model selection procedure is proposed to obtain an adaptive estimator in this parameter with the same rate of convergence as the estimator with a known tail parameter. Finally, we establish a lower bound on the minimax rate of convergence that matches the upper bound.</p>
+    <p class="pub-abstract" itemprop="text">We introduce a new general identifiable framework for principled disentanglement referred to as Structured Nonlinear Independent Component Analysis (SNICA). Our contribution is to extend the identifiability theory of deep generative models for a very broad class of structured models. While previous works have shown identifiability for specific classes of time-series models, our theorems extend this to more general temporal structures as well as to models with more complex structures such as spatial dependencies. In particular, we establish the major result that identifiability for this framework holds even in the presence of noise of unknown distribution. The SNICA setting therefore subsumes all the existing nonlinear ICA models for time-series and also allows for new much richer identifiable models. Finally, as an example of our framework&rsquo;s flexibility, we introduce the first nonlinear ICA model for time-series that combines the following very useful properties: it accounts for both nonstationarity and autocorrelation in a fully unsupervised setting; performs dimensionality reduction; models hidden states; and enables principled estimation and inference by variational maximum-likelihood.</p>
     
 
     
@@ -270,8 +270,8 @@
           <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
           <div class="col-xs-12 col-sm-9">
             
-            <a href="/publication/#2">
-              Journal article
+            <a href="/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -288,7 +288,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">To appear in The Annals of Statistics</div>
+          <div class="col-xs-12 col-sm-9">Submitted</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -321,7 +321,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://www.researchgate.net/publication/342464541_Deconvolution_with_unknown_noise_distribution_is_possible_for_multivariate_signals" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2106.09620" target="_blank" rel="noopener">
   Preprint
 </a>
 
@@ -357,17 +357,11 @@
 
 <div class="article-tags">
   
+  <a class="label label-default" href="/tags/independent-component-analysis/">Independent Component Analysis</a>
+  
   <a class="label label-default" href="/tags/identifiability/">Identifiability</a>
   
-  <a class="label label-default" href="/tags/latent-data/">Latent data</a>
-  
-  <a class="label label-default" href="/tags/general-state-space/">General state space</a>
-  
-  <a class="label label-default" href="/tags/consistency/">Consistency</a>
-  
-  <a class="label label-default" href="/tags/deconvolution/">Deconvolution</a>
-  
-  <a class="label label-default" href="/tags/translation-models/">Translation models</a>
+  <a class="label label-default" href="/tags/variational-estimation/">Variational estimation</a>
   
 </div>
 
@@ -381,10 +375,15 @@
 <div class="article-container article-widget">
   <div class="post-nav">
   
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/publication/gassiat_lehericy_lecorff_2020/" rel="next">Deconvolution with unknown noise distribution is possible for multivariate signals</a>
+  </div>
+  
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/publication/halva_etal_2021/" rel="prev">Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</a>
+    <a href="/publication/thin_etal_2021/" rel="prev">Invertible Flow Non Equilibrium sampling</a>
   </div>
   
 </div>

@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</title>
+      <link>/publication/halva_etal_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/halva_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Invertible Flow Non Equilibrium sampling</title>
       <link>/publication/thin_etal_2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
@@ -195,15 +204,6 @@ where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{
 and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
 &lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A Bayesian nonparametric approach for generalized Bradley-Terry models in random environment</title>
-      <link>/publication/lecorff_lerasle_vernet_2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/lecorff_lerasle_vernet_2018/</guid>
-      <description></description>
     </item>
     
   </channel>

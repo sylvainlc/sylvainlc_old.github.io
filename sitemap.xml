@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/publication/halva_etal_2021/</loc>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/thin_etal_2021/</loc>
       <lastmod>2021-03-01T00:00:00+01:00</lastmod>
     </url>
@@ -375,7 +384,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -595,6 +604,16 @@
     <url>
     
       <loc>/tags/identifiability/</loc>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/independent-component-analysis/</loc>
       <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -855,7 +874,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1016,6 +1035,16 @@
     
       <loc>/tags/unbiased-estimation/</loc>
       <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/variational-estimation/</loc>
+      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
