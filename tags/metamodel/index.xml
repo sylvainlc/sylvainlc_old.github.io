@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/metamodel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>End-to-end deep meta modelling to calibrate and optimize energy consumption and comfort</title>
+      <link>/publication/cohen_etal_2020/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cohen_etal_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Monte Carlo Transformer: a stochastic self-attention model for sequence prediction</title>
@@ -18,15 +27,6 @@
       <pubDate>Sat, 11 Jul 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/martin_etal_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>End-to-end deep meta modelling to calibrate and optimize energy consumption and comfort</title>
-      <link>/publication/cohen_etal_2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/cohen_etal_2020/</guid>
       <description></description>
     </item>
     
