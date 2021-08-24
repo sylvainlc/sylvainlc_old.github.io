@@ -17,7 +17,7 @@
       
     
   
-  <meta name="description" content="Simultaneously sampling from a complex distribution with intractable normalizing constant and approximating expectations under this distribution is a notoriously challenging problem.   We introduce a novel scheme, Invertible Flow Non Equilibrium Sampling (InFiNE),  which departs from classical Sequential Monte Carlo (SMC) and Markov chain Monte Carlo (MCMC) approaches. InFiNE constructs unbiased estimators of expectations and in particular of normalizing constants by combining the orbits of a deterministic transform started from random initializations. When this transform is chosen as an appropriate integrator of a conformal Hamiltonian system, these orbits are optimization paths. InFiNE is alsonaturally suited to design new MCMC sampling schemes by selecting samples on the optimization paths. Additionally, InFiNE can be used to construct an Evidence Lower Bound (ELBO) leading to a new class of Variational AutoEncoders (VAE).">
+  <meta name="description" content="Sampling from a complex distribution pi and approximating its intractable normalizing constant Z are challenging problems. In this paper, a novel family of importance samplers (IS) and Markov chain Monte Carlo (MCMC) samplers is derived. Given an invertible map T, these schemes combine (with weights) elements from the forward and backward Orbits through points sampled from a proposal distribution rho. The map T does not leave the target pi invariant, hence the name NEO, standing for Non-Equilibrium Orbits. NEO-IS provides unbiased estimators of the normalizing constant and self-normalized IS estimators of expectations under pi while NEO-MCMC combines multiple NEO-IS estimates of the normalizing constant and an iterated sampling-importance resampling mechanism to sample from pi. For T chosen as a discrete-time integrator of a conformal Hamiltonian system, NEO-IS achieves state-of-the art performance on difficult benchmarks and NEO-MCMC isable to explore highly multimodal targets. Additionally, we provide detailed theoretical results for both methods. In particular, we show that NEO-MCMC is uniformly geometrically ergodic and establish explicit mixing time estimates under mild conditions.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/thin_etal_2021/">
@@ -92,8 +92,8 @@
   
   <meta property="og:site_name" content="Sylvain Le Corff">
   <meta property="og:url" content="/publication/thin_etal_2021/">
-  <meta property="og:title" content="Invertible Flow Non Equilibrium sampling | Sylvain Le Corff">
-  <meta property="og:description" content="Simultaneously sampling from a complex distribution with intractable normalizing constant and approximating expectations under this distribution is a notoriously challenging problem.   We introduce a novel scheme, Invertible Flow Non Equilibrium Sampling (InFiNE),  which departs from classical Sequential Monte Carlo (SMC) and Markov chain Monte Carlo (MCMC) approaches. InFiNE constructs unbiased estimators of expectations and in particular of normalizing constants by combining the orbits of a deterministic transform started from random initializations. When this transform is chosen as an appropriate integrator of a conformal Hamiltonian system, these orbits are optimization paths. InFiNE is alsonaturally suited to design new MCMC sampling schemes by selecting samples on the optimization paths. Additionally, InFiNE can be used to construct an Evidence Lower Bound (ELBO) leading to a new class of Variational AutoEncoders (VAE).">
+  <meta property="og:title" content="NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform | Sylvain Le Corff">
+  <meta property="og:description" content="Sampling from a complex distribution pi and approximating its intractable normalizing constant Z are challenging problems. In this paper, a novel family of importance samplers (IS) and Markov chain Monte Carlo (MCMC) samplers is derived. Given an invertible map T, these schemes combine (with weights) elements from the forward and backward Orbits through points sampled from a proposal distribution rho. The map T does not leave the target pi invariant, hence the name NEO, standing for Non-Equilibrium Orbits. NEO-IS provides unbiased estimators of the normalizing constant and self-normalized IS estimators of expectations under pi while NEO-MCMC combines multiple NEO-IS estimates of the normalizing constant and an iterated sampling-importance resampling mechanism to sample from pi. For T chosen as a discrete-time integrator of a conformal Hamiltonian system, NEO-IS achieves state-of-the art performance on difficult benchmarks and NEO-MCMC isable to explore highly multimodal targets. Additionally, we provide detailed theoretical results for both methods. In particular, we show that NEO-MCMC is uniformly geometrically ergodic and establish explicit mixing time estimates under mild conditions.">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2021-03-01T00:00:00&#43;01:00">
@@ -105,7 +105,7 @@
 
   
 
-  <title>Invertible Flow Non Equilibrium sampling | Sylvain Le Corff</title>
+  <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform | Sylvain Le Corff</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -244,7 +244,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Invertible Flow Non Equilibrium sampling</h1>
+    <h1 itemprop="name">NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</h1>
     <span class="pub-authors" itemprop="author">
       
       Thin, A., Janati, Y., Le Corff, S., Ollion, C., Doucet, A., Durmus, A., Moulines, E., Robert, C.
@@ -259,7 +259,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Simultaneously sampling from a complex distribution with intractable normalizing constant and approximating expectations under this distribution is a notoriously challenging problem.   We introduce a novel scheme, Invertible Flow Non Equilibrium Sampling (InFiNE),  which departs from classical Sequential Monte Carlo (SMC) and Markov chain Monte Carlo (MCMC) approaches. InFiNE constructs unbiased estimators of expectations and in particular of normalizing constants by combining the orbits of a deterministic transform started from random initializations. When this transform is chosen as an appropriate integrator of a conformal Hamiltonian system, these orbits are optimization paths. InFiNE is alsonaturally suited to design new MCMC sampling schemes by selecting samples on the optimization paths. Additionally, InFiNE can be used to construct an Evidence Lower Bound (ELBO) leading to a new class of Variational AutoEncoders (VAE).</p>
+    <p class="pub-abstract" itemprop="text">Sampling from a complex distribution pi and approximating its intractable normalizing constant Z are challenging problems. In this paper, a novel family of importance samplers (IS) and Markov chain Monte Carlo (MCMC) samplers is derived. Given an invertible map T, these schemes combine (with weights) elements from the forward and backward Orbits through points sampled from a proposal distribution rho. The map T does not leave the target pi invariant, hence the name NEO, standing for Non-Equilibrium Orbits. NEO-IS provides unbiased estimators of the normalizing constant and self-normalized IS estimators of expectations under pi while NEO-MCMC combines multiple NEO-IS estimates of the normalizing constant and an iterated sampling-importance resampling mechanism to sample from pi. For T chosen as a discrete-time integrator of a conformal Hamiltonian system, NEO-IS achieves state-of-the art performance on difficult benchmarks and NEO-MCMC isable to explore highly multimodal targets. Additionally, we provide detailed theoretical results for both methods. In particular, we show that NEO-MCMC is uniformly geometrically ergodic and establish explicit mixing time estimates under mild conditions.</p>
     
 
     
@@ -321,7 +321,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://www.researchgate.net/publication/350252802_Invertible_Flow_Non_Equilibrium_sampling" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2103.10943.pdf" target="_blank" rel="noopener">
   Preprint
 </a>
 
