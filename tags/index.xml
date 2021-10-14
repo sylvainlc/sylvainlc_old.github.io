@@ -42,7 +42,7 @@
     <item>
       <title>Asymptotic normality</title>
       <link>/tags/asymptotic-normality/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/asymptotic-normality/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Consistency</title>
       <link>/tags/consistency/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/consistency/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Deconvolution</title>
       <link>/tags/deconvolution/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/deconvolution/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Deep learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>General state space</title>
       <link>/tags/general-state-space/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/general-state-space/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>Identifiability</title>
       <link>/tags/identifiability/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/identifiability/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>Independent Component Analysis</title>
       <link>/tags/independent-component-analysis/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/independent-component-analysis/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>Invertible flow</title>
       <link>/tags/invertible-flow/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/invertible-flow/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>Latent data</title>
       <link>/tags/latent-data/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/latent-data/</guid>
       <description></description>
@@ -285,7 +285,7 @@
     <item>
       <title>Monte Carlo</title>
       <link>/tags/monte-carlo/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/monte-carlo/</guid>
       <description></description>
@@ -301,6 +301,15 @@
     </item>
     
     <item>
+      <title>Natural language processing</title>
+      <link>/tags/natural-language-processing/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Noise estimation</title>
       <link>/tags/noise-estimation/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
@@ -312,7 +321,7 @@
     <item>
       <title>Non equilibrium sampling</title>
       <link>/tags/non-equilibrium-sampling/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/non-equilibrium-sampling/</guid>
       <description></description>
@@ -393,7 +402,7 @@
     <item>
       <title>Particle filters</title>
       <link>/tags/particle-filters/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/particle-filters/</guid>
       <description></description>
@@ -402,7 +411,7 @@
     <item>
       <title>Particle smoothers</title>
       <link>/tags/particle-smoothers/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/particle-smoothers/</guid>
       <description></description>
@@ -432,6 +441,15 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>/tags/rao-blackwellisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning</title>
+      <link>/tags/reinforcement-learning/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     
@@ -492,7 +510,7 @@
     <item>
       <title>Stochastic differential equations</title>
       <link>/tags/stochastic-differential-equations/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/stochastic-differential-equations/</guid>
       <description></description>
@@ -510,7 +528,7 @@
     <item>
       <title>Translation models</title>
       <link>/tags/translation-models/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/translation-models/</guid>
       <description></description>
@@ -519,7 +537,7 @@
     <item>
       <title>Unbiased estimation</title>
       <link>/tags/unbiased-estimation/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/unbiased-estimation/</guid>
       <description></description>
@@ -528,7 +546,7 @@
     <item>
       <title>Variational estimation</title>
       <link>/tags/variational-estimation/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/tags/variational-estimation/</guid>
       <description></description>

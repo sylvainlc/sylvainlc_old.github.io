@@ -13,9 +13,18 @@
     
     
     <item>
+      <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm</title>
+      <link>/publication/gloaguen_lecorff_olsson2019/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deconvolution with unknown noise distribution is possible for multivariate signals</title>
       <link>/publication/gassiat_lehericy_lecorff_2020/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/gassiat_lehericy_lecorff_2020/</guid>
       <description></description>
@@ -24,9 +33,27 @@
     <item>
       <title>Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</title>
       <link>/publication/halva_etal_2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/halva_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</title>
+      <link>/publication/thin_etal_2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/thin_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Natural Language Generation from Scratch</title>
+      <link>/publication/martin_etal_2021/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martin_etal_2021/</guid>
       <description></description>
     </item>
     
@@ -36,15 +63,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/cohen_etal_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</title>
-      <link>/publication/thin_etal_2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/thin_etal_2021/</guid>
       <description></description>
     </item>
     
@@ -90,15 +108,6 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm</title>
-      <link>/publication/gloaguen_lecorff_olsson2019/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
       <description></description>
     </item>
     

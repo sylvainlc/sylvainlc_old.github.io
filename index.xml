@@ -11,9 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm</title>
+      <link>/publication/gloaguen_lecorff_olsson2019/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deconvolution with unknown noise distribution is possible for multivariate signals</title>
       <link>/publication/gassiat_lehericy_lecorff_2020/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/gassiat_lehericy_lecorff_2020/</guid>
       <description></description>
@@ -22,9 +31,27 @@
     <item>
       <title>Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</title>
       <link>/publication/halva_etal_2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/halva_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</title>
+      <link>/publication/thin_etal_2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/thin_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Natural Language Generation from Scratch</title>
+      <link>/publication/martin_etal_2021/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martin_etal_2021/</guid>
       <description></description>
     </item>
     
@@ -34,15 +61,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/cohen_etal_2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</title>
-      <link>/publication/thin_etal_2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/thin_etal_2021/</guid>
       <description></description>
     </item>
     
@@ -88,15 +106,6 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/gassiat_lehericy_lecorff_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm</title>
-      <link>/publication/gloaguen_lecorff_olsson2019/</link>
-      <pubDate>Sat, 09 Feb 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/gloaguen_lecorff_olsson2019/</guid>
       <description></description>
     </item>
     
@@ -176,32 +185,6 @@ This file gathers projects led in SAMOVAR and the associated researchers which s
 
 &lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
 
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Some statistical insights for neural networks</title>
-      <link>/datasciencesattsp/09_18_statinsightdl/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datasciencesattsp/09_18_statinsightdl/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-This session is dedicated to highlight some new statistical insights on the way to tune deep neural
- networks to reach good performance. Following &lt;a href=&#34;https://arxiv.org/abs/1611.01232&#34;&gt;Deep information propagation&lt;/a&gt; 
-by Samuel Schoenholz,  Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein (Stanford University &amp; Google brain), 
-Soufiane Hayou, Arnaud Doucet and Judith Rousseau (University of Oxford)  analyze in 
-&lt;a href=&#34;https://arxiv.org/abs/1805.08266&#34;&gt;On the Selection of Initialization and Activation Function for Deep Neural Networks&lt;/a&gt; 
-the &lt;b&gt;edge of chaos&lt;/b&gt; as a criterion to choose the activation function of the neural network.&lt;br&gt;
-
-Consider a fully connected random neural network with depth $L\in\mathbb{N}^{\star}$ and widths $(N_{\ell})_{1\leqslant \ell\leqslant L}$. For some input $x\in\mathbb{R}^d$ and some activation function,
-$\phi:\mathbb{R}\to \mathbb{R}$, for all $\ell\geqslant 2$,
-\begin{align*}
-y_{i}^1(x) &amp;= \sum_{j=1}^d W_{i,j}^1\,x_j + B_i^1\,,\\
-y_{i}^{\ell}(x) &amp;= \sum_{j=1}^{N_{\ell-1}} W_{i,j}^{\ell}\,\phi\left(y_{j}^{\ell-1}(x)\right) + B_i^{\ell}\,,
-\end{align*}
-where $(W_{i,j}^{\ell})_{1\leqslant j\leqslant d\; ;\; 1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2/N_{\ell-1})$ 
-and $(B_{i}^{\ell})_{1\leqslant i\leqslant N_{\ell}}$ are i.i.d. $\mathcal{N}(0,\sigma^2_b)$.
 &lt;/p&gt;
 </description>
     </item>

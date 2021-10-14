@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Disentangling Identifiable Features from Noisy Data with Structured Nonlinear ICA</title>
       <link>/publication/halva_etal_2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/halva_etal_2021/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>NEO: Non Equilibrium Sampling on the Orbit of a Deterministic Transform</title>
       <link>/publication/thin_etal_2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
       
       <guid>/publication/thin_etal_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Natural Language Generation from Scratch</title>
+      <link>/publication/martin_etal_2021/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martin_etal_2021/</guid>
       <description></description>
     </item>
     

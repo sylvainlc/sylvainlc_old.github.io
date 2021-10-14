@@ -5,8 +5,17 @@
     
     <url>
     
+      <loc>/publication/gloaguen_lecorff_olsson2019/</loc>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/gassiat_lehericy_lecorff_2020/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -15,7 +24,25 @@
     <url>
     
       <loc>/publication/halva_etal_2021/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/thin_etal_2021/</loc>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/martin_etal_2021/</loc>
+      <lastmod>2021-07-11T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -25,15 +52,6 @@
     
       <loc>/publication/cohen_etal_2020/</loc>
       <lastmod>2021-06-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/thin_etal_2021/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -79,15 +97,6 @@
     
       <loc>/publication/gassiat_lehericy_lecorff_2019/</loc>
       <lastmod>2020-02-04T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/gloaguen_lecorff_olsson2019/</loc>
-      <lastmod>2019-02-09T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -384,7 +393,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -394,7 +403,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -434,7 +443,7 @@
     <url>
     
       <loc>/tags/asymptotic-normality/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -504,7 +513,7 @@
     <url>
     
       <loc>/tags/consistency/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -524,7 +533,7 @@
     <url>
     
       <loc>/tags/deconvolution/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -534,7 +543,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -594,7 +603,7 @@
     <url>
     
       <loc>/tags/general-state-space/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -604,7 +613,7 @@
     <url>
     
       <loc>/tags/identifiability/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -614,7 +623,7 @@
     <url>
     
       <loc>/tags/independent-component-analysis/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -624,7 +633,7 @@
     <url>
     
       <loc>/tags/invertible-flow/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -634,7 +643,7 @@
     <url>
     
       <loc>/tags/latent-data/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -724,7 +733,7 @@
     <url>
     
       <loc>/tags/monte-carlo/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -735,6 +744,16 @@
     
       <loc>/tags/multi-objective-optimization/</loc>
       <lastmod>2018-06-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/natural-language-processing/</loc>
+      <lastmod>2021-07-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -764,7 +783,7 @@
     <url>
     
       <loc>/tags/non-equilibrium-sampling/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -854,7 +873,7 @@
     <url>
     
       <loc>/tags/particle-filters/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -864,7 +883,7 @@
     <url>
     
       <loc>/tags/particle-smoothers/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -874,7 +893,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -905,6 +924,16 @@
     
       <loc>/tags/rao-blackwellisation/</loc>
       <lastmod>2017-12-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/reinforcement-learning/</loc>
+      <lastmod>2021-07-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -974,7 +1003,7 @@
     <url>
     
       <loc>/tags/stochastic-differential-equations/</loc>
-      <lastmod>2020-02-09T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1024,7 +1053,7 @@
     <url>
     
       <loc>/tags/translation-models/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1034,7 +1063,7 @@
     <url>
     
       <loc>/tags/unbiased-estimation/</loc>
-      <lastmod>2021-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1044,7 +1073,7 @@
     <url>
     
       <loc>/tags/variational-estimation/</loc>
-      <lastmod>2021-06-01T00:00:00+02:00</lastmod>
+      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
