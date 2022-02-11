@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/publication/cohen_etal_2022b/</loc>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/david_etal_2022/</loc>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cohen_etal_2022/</loc>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/gloaguen_lecorff_olsson2019/</loc>
       <lastmod>2021-10-01T00:00:00+02:00</lastmod>
     </url>
@@ -393,7 +420,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +430,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -543,7 +570,7 @@
     <url>
     
       <loc>/tags/deep-learning/</loc>
-      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -893,7 +920,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2021-10-01T00:00:00+02:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -963,7 +990,7 @@
     <url>
     
       <loc>/tags/sequential-monte-carlo/</loc>
-      <lastmod>2018-03-01T00:00:00+01:00</lastmod>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -994,6 +1021,16 @@
     
       <loc>/tags/simultaneous-localization-and-mapping/</loc>
       <lastmod>2013-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/state-space-models/</loc>
+      <lastmod>2022-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

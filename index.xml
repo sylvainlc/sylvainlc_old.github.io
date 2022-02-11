@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Diffusion bridges  vector quantized variational autoencoders</title>
+      <link>/publication/cohen_etal_2022b/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cohen_etal_2022b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HERMES: Hybrid Error-corrector Model with inclusion of External Signals for nonstationary fashion time series</title>
+      <link>/publication/david_etal_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/david_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On last layer state space models</title>
+      <link>/publication/cohen_etal_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cohen_etal_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A pseudo-marginal sequential Monte Carlo online smoothing algorithm</title>
       <link>/publication/gloaguen_lecorff_olsson2019/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
@@ -126,64 +153,6 @@ Four main topics &lt;b&gt;Fusion, correlation, detection of weak signals in high
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;b&gt;Deadline  8 of January 2019 at 5p.m.&lt;/b&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>H2020 calls - Big Data &amp; AI</title>
-      <link>/datasciencesattsp/12_18_h2020/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datasciencesattsp/12_18_h2020/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-General presentation of the H2020 calls in early 2019 related to Big Data, Data sciences and Artificial Intelligence.&lt;/br&gt;
-&lt;/br&gt;
-A general presentation by &lt;b&gt;Pierre Simay&lt;/b&gt;, &lt;b&gt;Isabelle de Sutter&lt;/b&gt; and &lt;b&gt;Julia Morawski&lt;/b&gt;: &lt;a href=&#34;/files/H2020/IA_Calls_H2020_Final.pdf&#34;&gt;H2020 calls&lt;/a&gt;.
-&lt;/br&gt;
-&lt;/br&gt;
-Other presentations by companies &amp; teams involved in data sciences projects relevant for these calls.
-If you are interested in some of these projects/calls or if you are already involved in a process for one of these H2020 calls please contact me at &lt;b&gt;sylvain.le_corff@telecom-sudparis.eu&lt;/b&gt;
-&lt;/br&gt;
-&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Calmedica.pdf&#34;&gt;Calmedica by Alexis Hernot&lt;/a&gt;&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Linkfluence.pdf&#34;&gt;Linkfluence by Benoit Tabutiaux&lt;/a&gt;&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Montimage.pdf&#34;&gt;Montimage by Edgardo Montesdeoca&lt;/a&gt;&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Oodrive.pdf&#34;&gt;Oodrive by Amdjed Mokhtari&lt;/a&gt;&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Sidetade.pdf&#34;&gt;Sidetrade by Francois Bancilhon&lt;/a&gt;&lt;/br&gt;
-&lt;a href=&#34;/files/H2020/Teralab.pdf&#34;&gt;Teralab by Anne-Sophie Taillandier&lt;/a&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overview of data sciences at Telecom SudParis</title>
-      <link>/datasciencesattsp/12_18_carto/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datasciencesattsp/12_18_carto/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt; &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
-This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences.
-
-&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Overview of data sciences at Telecom SudParis</title>
-      <link>/datascienceswg/12_18_carto/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/datascienceswg/12_18_carto/</guid>
-      <description>&lt;p align=&#34;justify&#34;&gt; 
-Overview of data sciences at Telecom SudParis for the IMT &lt;I&gt;Thematique phare&lt;/I&gt; &lt;b&gt;&#34;Intelligence artificielle et sciences des donnees&#34;&lt;/b&gt;. 
-This file gathers projects led in SAMOVAR and the associated researchers which set the focus on problems related to data sciences.
-
-&lt;a href=&#34;/files/DataIA_TSP_AAAI.doc&#34;&gt;DataIA_TSP_AAAI&lt;/a&gt;
 
 &lt;/p&gt;
 </description>

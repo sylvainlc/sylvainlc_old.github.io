@@ -114,7 +114,7 @@
     <item>
       <title>Deep learning</title>
       <link>/tags/deep-learning/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>/tags/deep-learning/</guid>
       <description></description>
@@ -474,7 +474,7 @@
     <item>
       <title>Sequential Monte Carlo</title>
       <link>/tags/sequential-monte-carlo/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
       
       <guid>/tags/sequential-monte-carlo/</guid>
       <description></description>
@@ -504,6 +504,15 @@
       <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
       
       <guid>/tags/simultaneous-localization-and-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State space models</title>
+      <link>/tags/state-space-models/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/state-space-models/</guid>
       <description></description>
     </item>
     
